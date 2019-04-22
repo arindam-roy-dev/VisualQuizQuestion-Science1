@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this waterfall?",
+"answers":[
+	"Iguazu Falls, Argentina and Brazil",
+	"Dettifoss, Northeast Iceland",
+	"Victoria Falls, Zimbabwe",
+	"Niagara Falls, Canada"
+	],
+"correctAnswer":4,
+"hints":[
+	"Located in USA Border"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Niagara Falls is the collective name for three waterfalls that straddle the international border between the Canadian province of Ontario and the US state of New York. They form the southern end of the Niagara Gorge.\nLocated on the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls form the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 metres (160 ft). During peak daytime tourist hours, more than 168,000 m3 (six million cubic feet) of water goes over the crest of the falls every minute. Horseshoe Falls is the most powerful waterfall in North America, as measured by flow rate."
+}
