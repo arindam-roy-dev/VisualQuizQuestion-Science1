@@ -1,19 +1,21 @@
 {
 "app":"Visual Quiz",
-"question":"What is the name of this waterfall?",
+"question":"What is the 5th planet from the Sun?",
 "answers":[
-	"Iguazu Falls, Argentina and Brazil",
-	"Dettifoss, Northeast Iceland",
-	"Victoria Falls, Zimbabwe",
-	"Niagara Falls, Canada"
+	"Earth",
+	"Mars",
+	"Jupiter",
+	"Saturn"
 	],
-"correctAnswer":4,
+"correctAnswer":3,
 "hints":[
-	"Located in USA Border"
+	"Has dozens of Moons",
+	"Diameter is 11.2 times larger than Earth",
+	"Largest Planet in our solar system"
 	],
 "earn":{
-	"hints":0,
-	"hideAnswers":2
+	"hints":1,
+	"hideAnswers":0
 	},
-"aboutAnswer":"Niagara Falls is the collective name for three waterfalls that straddle the international border between the Canadian province of Ontario and the US state of New York. They form the southern end of the Niagara Gorge.\nLocated on the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls form the highest flow rate of any waterfall in North America that has a vertical drop of more than 50 metres (160 ft). During peak daytime tourist hours, more than 168,000 m3 (six million cubic feet) of water goes over the crest of the falls every minute. Horseshoe Falls is the most powerful waterfall in North America, as measured by flow rate."
+"aboutAnswer":"The fifth planet from the sun, Jupiter is huge and is the most massive planet in our solar system. It’s a mostly gaseous world, mostly hydrogen and helium. Its swirling clouds are colorful due to different types of trace gases. A big feature is the Great Red Spot, a giant storm which has raged for hundreds of years. Jupiter has a strong magnetic field, and with dozens of moons, it looks a bit like a miniature solar system.\nNamed for: Ruler of the Roman gods\nDiameter: 86,881 miles (139,822 km)\nOrbit: 11.9 Earth years\nDay: 9.8 Earth hours"
 }
