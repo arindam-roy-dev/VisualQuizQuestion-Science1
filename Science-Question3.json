@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is this Electronics Component?",
+"answers":[
+	"Resistor",
+	"Processor",
+	"Transistor",
+	"Capacitor"
+	],
+"correctAnswer":4,
+"hints":[
+	"Known as a condenser or condensator"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":3
+	},
+"aboutAnswer":"A capacitor is a passive two-terminal electronic component that stores electrical energy in an electric field. The effect of a capacitor is known as capacitance. A capacitor is a component designed to add capacitance to a circuit. The capacitor was originally known as a condenser or condensator.\nMost capacitors contain at least two electrical conductors often in the form of metallic plates or surfaces separated by a dielectric medium."
+}
