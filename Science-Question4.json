@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who invented periodic table?",
+"answers":[
+	"Aristotle",
+	"Dmitri Mendeleev",
+	"Albert Einstein",
+	"Michael Faraday"
+	],
+"correctAnswer":2,
+"hints":[
+	"Russian Chemist and Inventor",
+	"Was born: 1834, Died: 1907"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Dmitri Ivanovich Mendeleev was a Russian chemist and inventor. He formulated the Periodic Law, created a farsighted version of the periodic table of elements, and used it to correct the properties of some already discovered elements and also to predict the properties of eight elements yet to be discovered.\nThough Mendeleev was widely honored by scientific organizations all over Europe, including (in 1882) the Davy Medal from the Royal Society of London.\nHe was elected a Foreign Member of the Royal Society (ForMemRS) in 1892, and in 1893 he was appointed director of the Bureau of Weights and Measures, a post which he occupied until his death."
+}

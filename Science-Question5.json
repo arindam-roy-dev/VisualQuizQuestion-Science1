@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which company is represented by the below logo?",
+"answers":[
+	"Mercedes Benz",
+	"NIKE",
+	"CISCO",
+	"Adidas"
+	],
+"correctAnswer":4,
+"hints":[
+	"Designs and manufactures Shoes, Clothing and Accessories",
+	"Headquarter is in Herzogenaurach, Germany",
+	"Former name was: Dassler Brothers Shoe Factory"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Adidas AG is a multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories.\nIt is the holding company for the Adidas Group, which consists of the Reebok sportswear company, TaylorMade golf company (including Ashworth), Runtastic, an Austrian fitness technology company.\nThe company was started by Adolf Dassler in his mother's house; he was joined by his elder brother Rudolf in 1924 under the name Dassler Brothers Shoe Factory. Dassler assisted in the development of spiked running shoes (spikes) for multiple athletic events.\nAdidas' logo is three stripes, which is used on the company's clothing and shoe designs as a marketing aid. The branding, which Adidas bought in 1952 from Finnish sports company Karhu Sports, became so successful that Dassler described Adidas as \"The three stripes company\"."
+}
