@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the most dense metal?",
+"answers":[
+	"Osmium",
+	"Iridium",
+	"Iron",
+	"Lead"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is approximately twice as dense as lead",
+	"Slightly denser than iridium"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Osmium is a chemical element with symbol Os and atomic number 76. It is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with an experimentally measured (using x-ray crystallography) density of 22.59 g/cm3.\nOsmium has a blue-gray tint and is the densest stable element; it is approximately twice as dense as lead and slightly denser than iridium. Calculations of density from the X-ray diffraction data may produce the most reliable data for these elements, giving a value of 22.587±0.009 g/cm3 for osmium, slightly denser than the 22.562±0.009 g/cm3 of iridium; both metals are nearly 23 times as dense as water.\Because of the volatility and extreme toxicity of its oxide, osmium is rarely used in its pure state, but is instead often alloyed with other metals for high-wear applications. Osmium alloys such as osmiridium are very hard and, along with other platinum-group metals, are used in the tips of fountain pens, instrument pivots, and electrical contacts, as they can resist wear from frequent operation. Osmium tetroxide has been used in fingerprint detection."
+}

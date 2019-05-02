@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the composition of soap?",
+"answers":[
+	"Sodium salt with fatty acids",
+	"Potassium salt with fatty acids",
+	"Both 1 & 2",
+	"Sodium and Potassium salt mixed with chemicals"
+	],
+"correctAnswer":3,
+"hints":[
+	"Soap is the term for a salt"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Soap is the term for a salt of a fatty acid or for a variety of cleansing and lubricating products produced from such a substance.\nHousehold uses for soaps include washing, bathing, and other types of housekeeping, where soaps act as surfactants, emulsifying oils to enable them to be carried away by water. In industry, they are used as thickeners, components of some lubricants, and precursors to catalysts.\nIn a domestic setting, \"soap\" usually refers to what is technically called a toilet soap, used for household and personal cleaning. When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. The insoluble oil/fat molecules become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket, which shields the oil/fat molecules from the water making it soluble. Anything that is soluble will be washed away with the water."
+}

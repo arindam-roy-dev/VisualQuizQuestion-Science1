@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Instrument?",
+"answers":[
+	"Pumpjack",
+	"Wind Mill",
+	"Solar Power Unit",
+	"Tractor"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is used to extract crude oil from a oil well"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A pumpjack is the overground drive for a reciprocating piston pump in an oil well.\nIt is used to mechanically lift liquid out of the well if not enough bottom hole pressure exists for the liquid to flow all the way to the surface. The arrangement is commonly used for onshore wells producing little oil. Pumpjacks are common in oil-rich areas.\nDepending on the size of the pump, it generally produces 5 to 40 litres (1 to 9 imp gal; 1.5 to 10.5 US gal) of liquid at each stroke. Often this is an emulsion of crude oil and water. Pump size is also determined by the depth and weight of the oil to remove, with deeper extraction requiring more power to move the increased weight of the discharge column (discharge head)."
+}
