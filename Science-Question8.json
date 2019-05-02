@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which company is represented by the below logo? ",
+"answers":[
+	"BNP Paribas",
+	"Starbucks",
+	"United Colors of Benetton",
+	"Crompton Greaves"
+	],
+"correctAnswer":2,
+"hints":[
+	"American coffee company and coffeehouse chain"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971. As of early 2019, the company operates over 30,000 locations worldwide.\nStarbucks first became profitable in Seattle in the early 1980s.[10] Despite an initial economic downturn with its expansion into the Midwest and British Columbia in the late 1980s, the company experienced revitalized prosperity with its entry into California in the early 1990s.\nThe first Starbucks location outside North America opened in Tokyo in 1996; overseas properties now constitute almost one-third of its stores. The company opened an average of two new locations daily between 1987 and 2007."
+}

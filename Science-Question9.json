@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Parent Company of Google?",
+"answers":[
+	"Alphabet Inc.",
+	"Google LLC.",
+	"Google Inc.",
+	"Motorola Mobility"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is mostly a collection of companies. The largest of which, is Google",
+	"Through a corporate restructuring of Google on October 2, 2015, it became the parent company of Google",
+	"Name means means a collection of letters that represent language"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a corporate restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries.\nAlphabet is mostly a collection of companies. The largest of which, of course, is Google. This newer Google is a bit slimmed down, with the companies that are pretty far afield of our main internet products contained in Alphabet instead.\nAlphabet's largest subsidiary is Google. Its other subsidiaries include Calico, Chronicle, DeepMind, GV, CapitalG, X, Google Fiber, Jigsaw, Makani, Sidewalk Labs, Verily, Waymo, Wing and Loon."
+}
