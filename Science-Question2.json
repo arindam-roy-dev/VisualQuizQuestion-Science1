@@ -1,19 +1,20 @@
 {
 "app":"Visual Quiz",
-"question":"What is the percentage of Nitrogen in the air?",
+"question":"Diamond is a solid form of which element?",
 "answers":[
-	"78.09%",
-	"90.33%",
-	"20.95%",
-	"0.04%"
+	"Gold",
+	"Carbon",
+	"Moon Stone",
+	"Graphite"
 	],
-"correctAnswer":1,
+"correctAnswer":2,
 "hints":[
-	"Present in major proportion"
+	"Color of the element is Black",
+	"Element with symbol C and atomic number 6"
 	],
 "earn":{
-	"hints":0,
-	"hideAnswers":3
+	"hints":2,
+	"hideAnswers":0
 	},
-"aboutAnswer":"By volume, dry air contains 78.09% Nitrogen, 20.95% Oxygen, 0.93% Argon, 0.04% Carbon dioxide, and small amounts of other gases. Air also contains a variable amount of water vapor, on average around 1% at sea level, and 0.4% over the entire atmosphere."
+"aboutAnswer":"Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. At room temperature and pressure, another solid form of carbon known as graphite is the chemically stable form, but diamond almost never converts to it.\nDiamond has the highest hardness and thermal conductivity of any natural material, properties that are utilized in major industrial applications such as cutting and polishing tools. They are also the reason that diamond anvil cells can subject materials to pressures found deep in the Earth.\nMost natural diamonds have ages between 1 billion and 3.5 billion years. Most were formed at depths between 150 and 250 kilometers (93 and 155 mi) in the Earth's mantle, although a few have come from as deep as 800 kilometers (500 mi). Under high pressure and temperature, carbon-containing fluids dissolved minerals and replaced them with diamonds. Much more recently (tens to hundreds of million years ago), they were carried to the surface in volcanic eruptions and deposited in igneous rocks known as kimberlites and lamproites."
 }
