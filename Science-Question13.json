@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the Space Station?",
+"answers":[
+	"GOES 13",
+	"GALAXY 14",
+	"International Space Station (ISS)",
+	"Hubble Space Technologies (HST)"
+	],
+"correctAnswer":3,
+"hints":[
+	"It\'s first component was launched into orbit in 1998",
+	"First long-term residents arriving in November 2000",
+	"It has been inhabited continuously since that date"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. The ISS maintains an orbit with an altitude of between 330 and 435 km (205 and 270 mi).\nIts first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date.\nThe last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030.\nThe ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets and American Space Shuttles.\nThe ISS serves as a microgravity and space environment research laboratory in which crew members conduct experiments in biology, human biology, physics, astronomy, meteorology, and other fields. The station is suited for the testing of spacecraft systems and equipment required for missions to the Moon and Mars."
+}

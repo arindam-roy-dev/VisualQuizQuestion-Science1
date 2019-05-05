@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the nearest star to Earth other than the Sun?",
+"answers":[
+	"Sirius",
+	"Andromeda",
+	"Barnard’s Star",
+	"Proxima Centauri"
+	],
+"correctAnswer":4,
+"hints":[
+	"Andromeda is a galaxy, not a star",
+	"It is One of the starts in Alpha Centauri system"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The sun's closest stellar neighbors are three stars in the Alpha Centauri system. The two main stars are Alpha Centauri A and Alpha Centauri B, which form a binary pair. They are an average of 4.3 light-years from Earth. The third star is Proxima Centauri. It is about 4.22 light-years from Earth and is the closest star other than the sun.\nProxima Centauri may be passing through the system and will leave the vicinity in several million years, or it may be gravitationally bound to the binary pair. If it's bound, it has an orbital period around the other two of about 500,000 years."
+}
