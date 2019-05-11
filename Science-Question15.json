@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"A Geostationary Satellite revolves round the Earth from",
+"answers":[
+	"East to West",
+	"West to East",
+	"North to South",
+	"South to North"
+	],
+"correctAnswer":2,
+"hints":[
+	"Revolves in the same direction the Earth rotates"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A geostationary satellite is an earth-orbiting satellite, placed at an altitude of approximately 35,800 kilometers (22,300 miles) directly over the equator, that revolves in the same direction the earth rotates (west to east).\nAt this altitude, one orbit takes 24 hours, the same length of time as the earth requires to rotate once on its axis.\nThe term geostationary comes from the fact that such a satellite appears nearly stationary in the sky as seen by a ground-based observer."
+}

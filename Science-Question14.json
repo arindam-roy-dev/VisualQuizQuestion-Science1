@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which of the following was the 1st network that initiated the Internet services?",
+"answers":[
+	"ARPANET",
+	"NSF Net",
+	"Inet",
+	"Vnet"
+	],
+"correctAnswer":1,
+"hints":[
+	"Initially founded by United States Department of Defense"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Advanced Research Projects Agency Network (ARPANET) was an early packet-switching network and the first network to implement the TCP/IP protocol suite.\nBoth technologies became the technical foundation of the Internet. The ARPANET was initially founded by the Advanced Research Projects Agency (ARPA) of the United States Department of Defense.\nThe packet-switching methodology employed in the ARPANET was based on concepts and designs by Leonard Kleinrock, Paul Baran, Donald Davies, and Lawrence Roberts. The TCP/IP communications protocols were developed for the ARPANET by computer scientists Robert Kahn and Vint Cerf, and incorporated concepts from the French CYCLADES project directed by Louis Pouzin."
+}
