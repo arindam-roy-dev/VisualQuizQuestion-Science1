@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"For what is the Jurassic period named?",
+"answers":[
+	"A kind of Dinosaur",
+	"A Mountain Range",
+	"The French word for \"day\"",
+	"A Volcano"
+	],
+"correctAnswer":4,
+"hints":[
+	"It named after a place, where limestone strata from the period were first identified"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Jurassic period is a geologic period and system that spanned 56 million years from the end of the Triassic Period 201.3 million years ago (Mya) to the beginning of the Cretaceous Period 145 Mya.\nThe Jurassic is named after the Jura Mountains within the European Alps, where limestone strata from the period were first identified.\nBy the beginning of the Jurassic, the supercontinent Pangaea had begun rifting into two landmasses: Laurasia to the north, and Gondwana to the south. This created more coastlines and shifted the continental climate from dry to humid, and many of the arid deserts of the Triassic were replaced by lush rainforests.\nOn land, the fauna transitioned from the Triassic fauna, dominated by both dinosauromorph and crocodylomorph archosaurs, to one dominated by dinosaurs alone. The first birds also appeared during the Jurassic, having evolved from a branch of theropod dinosaurs. Other major events include the appearance of the earliest lizards, and the evolution of therian mammals, including primitive placentals. Crocodilians made the transition from a terrestrial to an aquatic mode of life. The oceans were inhabited by marine reptiles such as ichthyosaurs and plesiosaurs, while pterosaurs were the dominant flying vertebrates."
+}

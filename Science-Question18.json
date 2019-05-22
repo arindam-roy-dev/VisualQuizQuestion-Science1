@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which gas is released from the ground, before an earthquake",
+"answers":[
+	"Xenon",
+	"Carbon dioxide",
+	"Radon",
+	"Hydrogen"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is radioactive and thus easily detected"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Most rock contains small amounts of gases that can be isotopically distinguished from the normal atmospheric gases. There are reports of spikes in the concentrations of such gases prior to a major earthquake; this has been attributed to release due to pre-seismic stress or fracturing of the rock. One of these gases is radon, produced by radioactive decay of the trace amounts of uranium present in most rock.\nRadon is useful as a potential earthquake predictor because it is radioactive and thus easily detected, and its short half-life (3.8 days) makes radon levels sensitive to short-term fluctuations. A 2009 review found 125 reports of changes in radon emissions prior to 86 earthquakes since 1966. But as the ICEF found in its review, the earthquakes with which these changes are supposedly linked were up to a thousand kilometers away, months later, and at all magnitudes. In some cases the anomalies were observed at a distant site, but not at closer sites. The ICEF found \"no significant correlation\". Another review concluded that in some cases changes in radon levels preceded an earthquake, but a correlation is not yet firmly established."
+}
