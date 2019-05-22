@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which instrument is used to measure the intensity of Earthquakes?",
+"answers":[
+	"Richter Scale",
+	"Ammeter",
+	"Ombrometer",
+	"Oometer"
+	],
+"correctAnswer":1,
+"hints":[
+	"An ammeter is used to measure the current in a circuit",
+	"A rain gauge (also known Ombrometer) is used to gather and measure the amount of liquid precipitation over a set period of time"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Richter magnitude scale for measuring the strength (\"size\") of earthquakes refers to the original \"magnitude scale\" developed by Charles F. Richter and presented in his landmark 1935 paper, and later revised and renamed the Local magnitude scale. denoted as ML.\nBecause of various shortcomings of the ML scale most seismological authorities now use other scales, such as the moment magnitude scale (Mw), to report earthquake magnitudes, but much of the news media still refers to these as \"Richter\" magnitudes.\nAll magnitude scales retain the logarithmic character of the original, and are scaled to have roughly comparable numeric values."
+}

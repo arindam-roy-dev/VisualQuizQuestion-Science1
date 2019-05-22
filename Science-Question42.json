@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which instrument used to measure Electric Resistance?",
+"answers":[
+	"Electrometer",
+	"Galvanometer",
+	"Spectrometer",
+	"Ohmmeter"
+	],
+"correctAnswer":4,
+"hints":[
+	"A galvanometer is used for detecting and indicating an electric current",
+	"A spectrometer is used to separate and measure spectral components of a physical phenomenon",
+	"An electrometer is used for measuring electric charge or electrical potential difference"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"An Ohmmeter is an electrical instrument that measures electrical resistance, the opposition to an electric current. Micro-ohmmeters (microhmmeter or microohmmeter) make low resistance measurements. Megohmmeters (also a trademarked device Megger) measure large values of resistance. he unit of measurement for resistance is ohms (Ω)."
+}

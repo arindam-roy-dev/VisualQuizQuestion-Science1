@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which is the first calculating device?",
+"answers":[
+	"Abacus",
+	"Calculator",
+	"Turing Machine",
+	"Pascaline"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is also called a counting frame"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Abacus, also called a counting frame, is a calculating tool that was in use in Europe, China and Russia, centuries before the adoption of the written Hindu–Arabic numeral system. The exact origin of the abacus is still unknown.\nAlthough today many use calculators and computers instead of abacuses to calculate, abacuses still remain in common use in some countries. Merchants, traders and clerks in some parts of Eastern Europe, Russia, China and Africa use abacuses, and they are still used to teach arithmetic to children. Some people who are unable to use a calculator because of visual impairment may use an abacus."
+}

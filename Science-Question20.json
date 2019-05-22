@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which instrument that is used to measure Relative Humidity?",
+"answers":[
+	"Hygrometer",
+	"Hydrometer",
+	"Barometer",
+	"Thermometer"
+	],
+"correctAnswer":1,
+"hints":[
+	"A Hydrometer is an instrument used for measuring the relative density of liquids",
+	"A Barometer is a scientific instrument used to measure air pressure",
+	"A Thermometer is a device that measures temperature or a temperature gradient."
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"A Hygrometer is an instrument used to measure the amount of humidity and water vapor in the atmosphere, in soil, or in confined spaces.\nThe maximum amount of water vapor that can be held in a given volume of air (saturation) varies greatly by temperature; cold air can hold less mass of water per unit volume than hot air. Temperature can change humidity. Most instruments respond to (or are calibrated to read) relative humidity (RH), which is the amount of water relative to the maximum at a particular temperature expressed as per cent.\nHumidity measurement instruments usually rely on measurements of some other quantity such as temperature, pressure, mass, a mechanical or electrical change in a substance as moisture is absorbed. By calibration and calculation, these measured quantities can lead to a measurement of humidity. Modern electronic devices use temperature of condensation (called the dew point), or changes in electrical capacitance or resistance to measure humidity differences.\nThe first crude hygrometer was invented by the Italian Renaissance polymath Leonardo da Vinci in 1480 and a more modern version was created by Swiss polymath Johann Heinrich Lambert in 1755. Later in the year 1783, Swiss physicist and Geologist, Horace Benedict De Saussure invented the first hygrometer using human hair to measure humidity."
+}

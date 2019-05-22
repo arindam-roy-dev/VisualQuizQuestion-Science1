@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which was the world\'s first successful electronic computer?",
+"answers":[
+	"PARAM",
+	"Pascaline",
+	"ENIAC",
+	"CRAY-1"
+	],
+"correctAnswer":3,
+"hints":[
+	"PARAM is a series of supercomputers designed and assembled by the Centre for Development of Advanced Computing (C-DAC) in Pune, India",
+	"Cray-1 is one of the most successful supercomputers in history",
+	"Pascaline is a mechanical calculator invented by Blaise Pascal in the early 17th century"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"ENIAC (Electronic Numerical Integrator and Computer) was the first electronic general-purpose computer. It was Turing-complete, digital and able to solve a large class of numerical problems through reprogramming.\nAlthough ENIAC was designed and primarily used to calculate artillery firing tables for the United States Army\'s Ballistic Research Laboratory, its first program was a study of the feasibility of the thermonuclear weapon.\nENIAC was completed in 1945 and first put to work for practical purposes on December 10, 1945.\nENIAC was formally dedicated at the University of Pennsylvania on February 15, 1946 and was heralded as a \"Giant Brain\" by the press.\nThe combination of speed and programmability allowed for thousands more calculations for problems, as ENIAC calculated a trajectory in 30 seconds that took a human 20 hours (allowing one ENIAC hour to displace 2,400 human hours).\nENIAC was shut down on November 9, 1946 for a refurbishment and a memory upgrade, and was transferred to Aberdeen Proving Ground, Maryland in 1947. There, on July 29, 1947, it was turned on and was in continuous operation until 11:45 p.m. on October 2, 1955."
+}
