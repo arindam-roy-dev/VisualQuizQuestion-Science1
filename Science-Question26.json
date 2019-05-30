@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which element of Atmosphere absorbes Ultraviolet Rays?",
+"answers":[
+	"Oxygen",
+	"Nitrogen",
+	"Ozone",
+	"Helium"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is an inorganic molecule with the chemical formula O3",
+	"It\'s highest concentration found in the Stratosphere"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Ozone or trioxygen, is an inorganic molecule with the chemical formula O3. It is a pale blue gas with a distinctively pungent smell. It is an allotrope of oxygen that is much less stable than the diatomic allotrope O2, breaking down in the lower atmosphere to O2 (dioxygen). Ozone is formed from dioxygen by the action of ultraviolet light (UV) and electrical discharges within the Earth\'s atmosphere.\nIt is present in very low concentrations throughout the latter, with its highest concentration high in the ozone layer of the stratosphere, which absorbs most of the Sun's ultraviolet (UV) radiation."
+}

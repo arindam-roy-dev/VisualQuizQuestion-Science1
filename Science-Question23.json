@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Geostationary satellite revolves at?",
+"answers":[
+	"Any height",
+	"Fixed height",
+	"Height which depends upon its mass",
+	"Height above pole"
+	],
+"correctAnswer":2,
+"hints":[
+	"Geostationary satellites are permanently fixed in exactly the same position in the sky"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Geostationary satellites have the unique property of remaining permanently fixed in exactly the same position in the sky as viewed from any fixed location on Earth, meaning that ground-based antennas do not need to track them but can remain fixed in one direction. Such satellites are often used for communication purposes; a geosynchronous network is a communication network based on communication with or through geosynchronous satellites."
+}

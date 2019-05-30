@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"How the speed of light varies with the rise in the temperature?",
+"answers":[
+	"Increases",
+	"Decreases",
+	"Does not change",
+	"Drops suddenly"
+	],
+"correctAnswer":3,
+"hints":[
+	"The ratio between c and the speed v at which light travels in a material is called the refractive index n of the material (n = c / v)",
+	"Light always travels fastest in a vacuum"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"When light enters a denser medium (like from air to glass) the speed and wavelength of the light wave decrease while the frequency stays the same. Although the speed of light is no longer constant when we think about different media, we do know that light always travels fastest in a vacuum.\nThe speed of light in vacuum, commonly denoted c, is a universal physical constant important in many areas of physics. Its exact value is 299,792,458 metres per second (approximately 300,000 km/s) (186,000 mi/s).\nThe speed at which light propagates through transparent materials, such as glass or air, is less than c; similarly, the speed of electromagnetic waves in wire cables is slower than c. The ratio between c and the speed v at which light travels in a material is called the refractive index n of the material (n = c / v)."
+}

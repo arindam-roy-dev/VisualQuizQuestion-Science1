@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Electrostatic precipitator is used to control the pollution of?",
+"answers":[
+	"Water",
+	"Noise",
+	"Air",
+	"Radiation"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a filtration device that removes fine particles, like dust and smoke"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"An electrostatic precipitator (ESP) is a filtration device that removes fine particles, like dust and smoke, from a flowing gas using the force of an induced electrostatic charge minimally impeding the flow of gases through the unit.\nESPs continue to be excellent devices for control of many industrial particulate emissions, including smoke from electricity-generating utilities (coal and oil fired), salt cake collection from black liquor boilers in pulp mills, and catalyst collection from fluidized bed catalytic cracker units in oil refineries to name a few.\nThese devices treat gas volumes from several hundred thousand ACFM to 2.5 million ACFM (1,180 m³/s) in the largest coal-fired boiler applications. For a coal-fired boiler the collection is usually performed downstream of the air preheater at about 160 °C (320 °F) which provides optimal resistivity of the coal-ash particles. For some difficult applications with low-sulfur fuel hot-end units have been built operating above 370 °C (698 °F)."
+}

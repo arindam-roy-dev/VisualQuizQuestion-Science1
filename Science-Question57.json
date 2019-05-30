@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who invented Doctor\’s Thermometer?",
+"answers":[
+	"Louis Pasteur",
+	"Gabriel Fahrenheit",
+	"Faraday",
+	"Thomas Alva Edison"
+	],
+"correctAnswer":2,
+"hints":[
+	"He was a German physicist",
+	"There is also a temperature scale, based on one proposed in 1724 by him"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A pioneer of exact thermometry, Daniel Gabriel Fahrenheit helped lay the foundations for the era of precision thermometry by inventing the mercury-in-glass thermometer (first practical, accurate thermometer) and Fahrenheit scale (first standardized temperature scale to be widely used).\nIn other words, Fahrenheit\'s inventions ushered in the first revolution in the history of thermometry (branch of physics concerned with methods of temperature measurement). From the early 1710s until the beginnings of the electronic era, mercury-in-glass thermometers were among the most reliable and accurate thermometers ever invented."
+}

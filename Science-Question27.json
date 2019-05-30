@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this Machine?",
+"answers":[
+	"Bulldozer",
+	"Crane",
+	"Excavator",
+	"Forklift"
+	],
+"correctAnswer":4,
+"hints":[
+	"It must have rear-wheel steering",
+	"It is industrial truck used to lift and move materials over short distances"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A forklift is a powered industrial truck used to lift and move materials over short distances. The forklift was developed in the early 20th century by various companies, including Clark, which made transmissions, and Yale & Towne Manufacturing, which made hoists.\nSince World War II, the use and development of the forklift truck have greatly expanded worldwide. Forklifts have become an indispensable piece of equipment in manufacturing and warehousing.\nIn 2013, the top 20 manufacturers worldwide posted sales of $30.4 billion, with 944,405 machines sold.\nForklifts are rated for loads at a specified maximum weight and a specified forward center of gravity. This information is located on a nameplate provided by the manufacturer, and loads must not exceed these specifications.\nAn important aspect of forklift operation is that it must have rear-wheel steering. While this increases maneuverability in tight cornering situations, it differs from a driver\’s traditional experience with other wheeled vehicles. While steering, as there is no caster action, it is unnecessary to apply steering force to maintain a constant rate of turn."
+}

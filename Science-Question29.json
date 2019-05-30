@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In a refrigerator what produces the cooling ?",
+"answers":[
+	"The ice which deposits on the freezer",
+	"The sudden expansion of a compressed gas",
+	"The evaporation of a volatile liquid",
+	"compressor pressures out heat to outside"
+	],
+"correctAnswer":3,
+"hints":[
+	"Dichlorodifluoromethane (R-12) is a colorless gas usually sold under the brand name Freon-12, and a chlorofluorocarbon halomethane (CFC) used as a refrigerant",
+	"The vapor is compressed and exits the compressor as high-pressure superheated vapor"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"A vapor compression cycle is used in most household refrigerators. In this cycle, a circulating refrigerant such as R134a enters a compressor as low-pressure vapor at or slightly below the temperature of the refrigerator interior. The vapor is compressed and exits the compressor as high-pressure superheated vapor.\nThe superheated vapor travels under pressure through coils or tubes that make up the condenser; the coils or tubes are passively cooled by exposure to air in the room. The condenser cools the vapor, which liquefies.\nAs the refrigerant leaves the condenser, it is still under pressure but is now only slightly above room temperature. This liquid refrigerant is forced through a metering or throttling device, also known as an expansion valve (essentially a pin-hole sized constriction in the tubing) to an area of much lower pressure. The sudden decrease in pressure results in explosive-like flash evaporation of a portion (typically about half) of the liquid. The latent heat absorbed by this flash evaporation is drawn mostly from adjacent still-liquid refrigerant, a phenomenon known as auto-refrigeration. This cold and partially vaporized refrigerant continues through the coils or tubes of the evaporator unit."
+}

@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which Instrument is used to measure the force and velocity of the Wind?",
+"answers":[
+	"Ammeter",
+	"Anemometer",
+	"Altimeter",
+	"Windmeter"
+	],
+"correctAnswer":2,
+"hints":[
+	"It consisted of three or four hemispherical cups mounted on horizontal arms"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"An anemometer is a device used for measuring wind speed, and is also a common weather station instrument. The term is derived from the Greek word anemos, which means wind, and is used to describe any wind speed instrument used in meteorology. The first known description of an anemometer was given by Leon Battista Alberti in 1450.\nA simple type of anemometer was invented in 1845 by Dr. John Thomas Romney Robinson, of Armagh Observatory. It consisted of four hemispherical cups mounted on horizontal arms, which were mounted on a vertical shaft. The air flow past the cups in any horizontal direction turned the shaft at a rate that was roughly proportional to the wind speed. Therefore, counting the turns of the shaft over a set time interval produced a value proportional to the average wind speed for a wide range of speeds. It is also called a rotational anemometer.\nThe three-cup anemometer developed by the Canadian John Patterson in 1926 and subsequent cup improvements by Brevoort & Joiner of the United States in 1935 led to a cupwheel design with a nearly linear response and had an error of less than 3% up to 60 mph (97 km/h). Patterson found that each cup produced maximum torque when it was at 45° to the wind flow. The three-cup anemometer also had a more constant torque and responded more quickly to gusts than the four-cup anemometer."
+}

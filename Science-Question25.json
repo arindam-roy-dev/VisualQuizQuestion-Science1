@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which type of Antenna is this?",
+"answers":[
+	"Dipole Antenna",
+	"Monopole Antenna",
+	"Array Antenna",
+	"Sector Antenna"
+	],
+"correctAnswer":4,
+"hints":[
+	"The largest use of these antennas is as antennas for cell phone base-station sites",
+	"Example of Array Antenna is Television Antenna or TV Aerial"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A sector antenna is a type of directional microwave antenna with a sector-shaped radiation pattern. The word \"sector\" is used in the geometric sense; some portion of the circumference of a circle measured in degrees of arc. 60°, 90° and 120° designs are typical, often with a few degrees \'extra\' to ensure overlap and mounted in multiples when wider or full-circle coverage is required.\nThe largest use of these antennas is as antennas for cell phone base-station sites. They are also used for other types of mobile communications, for example in WiFi networks. They are used for limited-range distances of around 4 to 5 km."
+}

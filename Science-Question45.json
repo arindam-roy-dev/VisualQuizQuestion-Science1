@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who invented Telephone?",
+"answers":[
+	"Einstein",
+	"Robert Hook",
+	"John Napier",
+	"Alexander Graham Bell"
+	],
+"correctAnswer":4,
+"hints":[
+	"He was Scottish emigrant",
+	"He was awarded the first U.S. patent for the telephone in 1876"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"In 1876, Scottish emigrant Alexander Graham Bell was the first to be granted a United States patent for a device that produced clearly intelligible replication of the human voice. He also founded the American Telephone and Telegraph Company (AT&T) in 1885.\nThis instrument was further developed by many others. The telephone was the first device in history that enabled people to talk directly with each other across large distances. Telephones rapidly became indispensable to businesses, government and households and are today some of the most widely used small appliances."
+}
