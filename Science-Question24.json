@@ -10,7 +10,7 @@
 "correctAnswer":3,
 "hints":[
 	"It is a Semiconductor device used to amplify or switch electronic signals and electrical power",
-	"A voltage or current applied to one pair of the transistor's terminals controls the current through another pair of terminals"
+	"A voltage or current applied to one pair of the terminals controls the current through another pair of terminals"
 	],
 "earn":{
 	"hints":1,
