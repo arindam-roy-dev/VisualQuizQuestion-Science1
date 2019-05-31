@@ -1,0 +1,18 @@
+{
+"app":"Visual Quiz",
+"question":"A Multimeter is used to Measure?",
+"answers":[
+	"Current",
+	"Resistance",
+	"Voltage",
+	"All of the above"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is an electronic measuring instrument that combines several measurement functions in one unit"
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A multimeter or a multitester, also known as a VOM (volt-ohm-milliammeter), is an electronic measuring instrument that combines several measurement functions in one unit. A typical multimeter can measure voltage, current, and resistance.\nAnalog multimeters uses a microammeter with a moving pointer to display readings. Digital multimeters (DMM, DVOM) have a numeric display, and may also show a graphical bar representing the measured value. Digital multimeters are now far more common due to their cost and precision, but analog multimeters are still preferable in some cases, for example when monitoring a rapidly varying value.\nA multimeter can be a hand-held device useful for basic fault finding and field service work, or a bench instrument which can measure to a very high degree of accuracy. Multimeters are available in a wide range of features and prices."
+}

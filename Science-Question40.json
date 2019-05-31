@@ -1,0 +1,18 @@
+{
+"app":"Visual Quiz",
+"question":"How much time takes to reach Light from Sun to Earth?",
+"answers":[
+	"3 Minutes",
+	"8.3 Minutes",
+	"15 Minutes",
+	"1.2 Hours"
+	],
+"correctAnswer":2,
+"hints":[
+	"It takes less than an Hour"
+"earn":{
+	"hints":0
+	"hideAnswers":2
+	},
+"aboutAnswer":"Sunlight is a portion of the electromagnetic radiation given off by the Sun, in particular infrared, visible, and ultraviolet light. On Earth, sunlight is filtered through Earth's atmosphere, and is obvious as daylight when the Sun is above the horizon.\nWhen the direct solar radiation is not blocked by clouds, it is experienced as sunshine, a combination of bright light and radiant heat. When it is blocked by clouds or reflects off other objects, it is experienced as diffused light.\nSunlight takes about 8.3 minutes to reach Earth from the surface of the Sun. A photon starting at the center of the Sun and changing direction every time it encounters a charged particle would take between 10,000 and 170,000 years to get to the surface.\nThe ultraviolet radiation in sunlight has both positive and negative health effects, as it is both a requisite for vitamin D3 synthesis and a mutagen."
+}

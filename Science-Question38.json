@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What type of Lens is used in a Magnifying Glass?",
+"answers":[
+	"Concave",
+	"Polarized",
+	"Convex",
+	"Bifocal"
+	],
+"correctAnswer":3,
+"hints":[
+	"Magnifying Glass is used to produce a magnified image of an object",
+	"A magnifying glass can be used to focus light"
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A magnifying glass (called a hand lens in laboratory contexts) is a convex lens that is used to produce a magnified image of an object.\nThe lens is usually mounted in a frame with a handle (see image). A magnifying glass can be used to focus light, such as to concentrate the sun\'s radiation to create a hot spot at the focus for fire starting."
+}

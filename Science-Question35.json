@@ -1,0 +1,18 @@
+{
+"app":"Visual Quiz",
+"question":"The Sudden Fall of Atmospheric Pressure indicates?",
+"answers":[
+	"Fair weather",
+	"Storm",
+	"Rain",
+	"Cold weather"
+	],
+"correctAnswer":2,
+"hints":[
+	"They are created when a center of low pressure develops with the system of high pressure surrounding it"
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Storms are created when a center of low pressure develops with the system of high pressure surrounding it. This combination of opposing forces can create winds and result in the formation of storm clouds such as cumulonimbus. Small localized areas of low pressure can form from hot air rising off hot ground, resulting in smaller disturbances such as dust devils and whirlwinds."
+}

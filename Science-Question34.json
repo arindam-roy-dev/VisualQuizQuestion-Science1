@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which type of Cables consist of a Center Glass core surrounded by layers of protective materials?",
+"answers":[
+	"Coaxial Cable",
+	"Unshielded Twisted Pair (UTP) Cable",
+	"Shielded Twisted Pair (STP) Cable",
+	"Fiber Optic Cable"
+	],
+"correctAnswer":4,
+"hints":[
+	"Supports higher bandwidths (data rates) than electrical cables",
+	"It is a flexible, transparent fiber made by drawing glass (silica)"
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"An optical fiber is a flexible, transparent fiber made by drawing glass (silica) or plastic to a diameter slightly thicker than that of a human hair.\nOptical fibers are used most often as a means to transmit light between the two ends of the fiber and find wide usage in fiber-optic communications, where they permit transmission over longer distances and at higher bandwidths (data rates) than electrical cables. Fibers are used instead of metal wires because signals travel along them with less loss; in addition, fibers are immune to electromagnetic interference, a problem from which metal wires suffer excessively.\nOptical fibers typically include a core surrounded by a transparent cladding material with a lower index of refraction. Light is kept in the core by the phenomenon of total internal reflection which causes the fiber to act as a waveguide."
+}
