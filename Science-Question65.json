@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"The velocity of the sound is highest in?",
+"answers":[
+	"Metal",
+	"Air",
+	"Water",
+	"Vacuum"
+	],
+"correctAnswer":1,
+"hints":[
+	"Sound travels most slowly in Gases",
+	"it travels faster in Liquids",
+	"and faster still in Solids"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The speed of sound in air is about 343 metres per second. It depends strongly on temperature, but also varies by several metres per second, depending on which gases exist in the medium through which a soundwave is propagating. Sound travels most slowly in gases; it travels faster in liquids; and faster still in solids.\nFor example, (as noted above), sound travels at 343 m/s in air; it travels at 1,480 m/s in water (4.3 times as fast as in air); and at 5,120 m/s in iron (about 15 times as fast as in air). In an exceptionally stiff material such as diamond, sound travels at 12,000 metres per second (39,000 ft/s)[1]—about 35 times as fast as in air—which is around the maximum speed that sound will travel under normal conditions."
+}

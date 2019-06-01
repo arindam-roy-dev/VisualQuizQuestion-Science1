@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which gas is safe and an effective Extinguisher for all confined Fires?",
+"answers":[
+	"Nitrogen dioxide",
+	"Carbon dioxide",
+	"Sulphur dioxide",
+	"Nitrous Oxide"
+	],
+"correctAnswer":2,
+"hints":[
+	"Remote control is used to operate the device from a short distance, wirelessly",
+	"Different Manufacturers use different protocols like RC-5, RC-6, SIRCS etc"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Carbon dioxide (chemical formula CO2) is a colorless gas with a density about 60% higher than that of dry air. Carbon dioxide consists of a carbon atom covalently double bonded to two oxygen atoms. It occurs naturally in Earth\'s atmosphere as a trace gas. The current concentration is about 0.04% (410 ppm) by volume, having risen from pre-industrial levels of 280 ppm.\nCarbon dioxide can be used to extinguish flames by flooding the environment around the flame with the gas. It does not itself react to extinguish the flame, but starves the flame of oxygen by displacing it. Some fire extinguishers, especially those designed for electrical fires, contain liquid carbon dioxide under pressure.\nCarbon dioxide extinguishers work well on small flammable liquid and electrical fires, but not on ordinary combustible fires, because although it excludes oxygen, it does not cool the burning substances significantly and when the carbon dioxide disperses they are free to catch fire upon exposure to atmospheric oxygen. Their desirability in electrical fire stems from the fact that, unlike water or other chemical based methods, Carbon dioxide will not cause short circuits, leading to even more damage to equipment."
+}

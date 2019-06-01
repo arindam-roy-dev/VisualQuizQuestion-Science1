@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which device converts AC to DC?",
+"answers":[
+	"Oscillator",
+	"Amplifier",
+	"Rectifier",
+	"Converter"
+	],
+"correctAnswer":3,
+"hints":[
+	"Oscillator produces a periodic, oscillating electronic signal, often a sine wave or a square wave",
+	"Amplifier increases the power of a signal"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A rectifier is an electrical device that converts alternating current (AC), which periodically reverses direction, to direct current (DC), which flows in only one direction.\nRectifiers have many uses, but are often found serving as components of DC power supplies and high-voltage direct current power transmission systems. Rectification may serve in roles other than to generate direct current for use as a source of power. As noted, detectors of radio signals serve as rectifiers. In gas heating systems flame rectification is used to detect presence of a flame.\nMore complex circuitry that performs the opposite function, converting DC to AC, is called an inverter."
+}

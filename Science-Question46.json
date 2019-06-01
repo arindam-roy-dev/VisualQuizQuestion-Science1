@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which wave is used by the common TV Remote control?",
+"answers":[
+	"Radio waves",
+	"Lasers",
+	"Infrared waves",
+	"Ultrasonic waves"
+	],
+"correctAnswer":3,
+"hints":[
+	"Remote control is used to operate the device from a short distance, wirelessly",
+	"Different Manufacturers use different protocols like RC-5, RC-6, SIRCS etc"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A remote control is an electronic device used to operate the device from a distance, usually wirelessly. For example, in consumer electronics, a remote control can be used to operate devices such as a television set, DVD player or other home appliance, from a short distance.\nPresent-day remote controls are commonly consumer infrared devices which send digitally-coded pulses of infrared radiation to control functions such as power, volume, channels, playback, track change, heat, fan speed, or other features varying from device to device. Remote controls for these devices are usually small wireless handheld objects with an array of buttons for adjusting various settings such as television channel, track number, and volume."
+}
