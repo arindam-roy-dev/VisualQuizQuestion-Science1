@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The Cooking Gas (LPG) mainly consists of?",
+"answers":[
+	"Butane",
+	"Ethene",
+	"Ethyne",
+	"Oxygen"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is an organic compound with the formula C4H10",
+	"It is a gas at standard temperature and pressure, but compressible to a transportable liquid"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Liquefied petroleum gas or liquid petroleum gas (LPG or LP gas), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles.\nVarieties of LPG bought and sold include mixes that are mostly propane (C3H8), mostly butane (C4H10), and, most commonly, mixes including both propane and butane. In the northern hemisphere winter, the mixes contain more propane, while in summer, they contain more butane."
+}

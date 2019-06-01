@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is used as an Antiseptic to Sterilise wounds and syringes in hospitals?",
+"answers":[
+	"Propanol",
+	"Butanol",
+	"Methanol",
+	"Ethanol"
+	],
+"correctAnswer":4,
+"hints":[
+	"It\'s chemical formula C2H6O",
+	"It is also called ethyl alcohol or drinking alcohol"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Ethanol (also called ethyl alcohol, grain alcohol, drinking alcohol, or simply alcohol) is a chemical compound, a simple alcohol with the chemical formula C2H6O. Its formula can be also written as CH3−CH2−OH or C2H5−OH (an ethyl group linked to a hydroxyl group), and is often abbreviated as EtOH.\nEthanol is a volatile, flammable, colorless liquid with a slight characteristic odor. It is a psychoactive substance and is the principal type of alcohol found in alcoholic drinks.\nEthanol is naturally produced by the fermentation of sugars by yeasts or via petrochemical processes, and is most commonly consumed as a popular recreational drug. It also has medical applications as an antiseptic and disinfectant.\nThe compound is widely used as a chemical solvent, either for scientific chemical testing or in synthesis of other organic compounds, and is a vital substance used across many different kinds of manufacturing industries. Ethanol is also used as a clean-burning fuel source."
+}
