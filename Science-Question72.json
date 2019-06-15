@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this automotive (Car) part?",
+"answers":[
+	"Roof Rack",
+	"Sun visor",
+	"Rear Spoiler",
+	"Axle"
+	],
+"correctAnswer":4,
+"hints":[
+	"It increases high speed stability due to the reduced rear lift",
+	"A sun visor is used to shade the eyes of drivers and passengers from the glare of sunlight",
+	"A roof rack is a set of bars secured to the roof of a car. It is used to carry bulky items such as luggage, bicycles etc.",
+	"An Axle is a central shaft for a rotating Wheel"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Passenger vehicles can be equipped with front and rear spoilers. Front spoilers, found beneath the bumper, are mainly used to decrease the amount of air going underneath the vehicle to reduce the drag coefficient and lift.\nSports cars are most commonly seen with front and rear spoilers. Even though these vehicles typically have a more rigid chassis and a stiffer suspension to aid in high speed maneuverability, a spoiler can still be beneficial. This is because many vehicles have a fairly steep downward angle going from the rear edge of the roof down to the trunk or tail of the car which may cause air flow separation.\nThe flow of air becomes turbulent and a low-pressure zone is created, increasing drag and instability (see Bernoulli effect). Adding a rear spoiler could be considered to make the air \"see\" a longer, gentler slope from the roof to the spoiler, which helps to delay flow separation and the higher pressure in front of the spoiler can help reduce the lift on the car by creating downforce. This may reduce drag in certain instances and will generally increase high speed stability due to the reduced rear lift."
+}

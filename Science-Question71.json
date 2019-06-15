@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which production machine is this?",
+"answers":[
+	"Pulp and paper production",
+	"Cotton production",
+	"Rolling paper production",
+	"Newspaper Printing"
+	],
+"correctAnswer":4,
+"hints":[
+	"Rolling paper is a specialty paper used for making cigarettes",
+	"The post Production area is often called Mailroom because here the copies are prepared for mailing to the customers"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The printing process is the main process step during newspaper production. Quickness and reliability with at the same time reasonable producing are the cornerstones in the production and processing of print products.\nThe first functions of a newspaper press are loading and unwinding of newsprint reels. These functions are provided by the paster. Pasters unwind paper reels and automatically change paper reels at full production speed (e.g. 100.000 copies per hour). Often pasters are place below the printing towers.\nThe towers often consist of four printing units to print Cyan, Magenta, Yellow and Black ink onto the newsprint. The newsprint web travels upwards in the printing tower during the color is applied to it on both sides of the reel. Usually for every page there is one individual printing plate per color. This printing plate is mounted onto the plate cylinder within the printing unit which again is part of the printing tower. Modern presses can print full color on every page. Four color printing units are used for printing on one side of the paper web and another four printing units apply the backside print onto the paper web.\nPrinting front and backside can happen simultaneously (blanket-to-blanket-configuration) or after another (satellite configuration) The printing units cannot just print one page like in digital printing, instead printing towers in newspaper presses can print up to 24 broadsheet pages in full color. If the press consists of several towers much more pages can be printed at once."
+}

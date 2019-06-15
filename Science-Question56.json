@@ -1,21 +1,21 @@
 {
 "app":"Visual Quiz",
-"question":"Which of the following is used in Pencils?",
+"question":"Where was the Volkswagen car company established?",
 "answers":[
-	"Silicon",
-	"Charcoal",
-	"Graphite",
-	"Boron"
+	"USA",
+	"Japan",
+	"England",
+	"Germany"
 	],
-"correctAnswer":3,
+"correctAnswer":4,
 "hints":[
-	"Color of the Silicon is Silvery",
-	"It is a crystalline form of Carbon",
-	"Under high pressures and temperatures it converts to diamond"
+	"Volkswagen translates to \"people\'s car\"",
+	"Founded on 28 May 1937 by the Labour Front",
+	"Current Headquarter is in Wolfsburg"
 	],
 "earn":{
 	"hints":0,
 	"hideAnswers":1
 	},
-"aboutAnswer":"Graphite, archaically referred to as plumbago, is a crystalline form of the element carbon with its atoms arranged in a hexagonal structure. It occurs naturally in this form and is the most stable form of carbon under standard conditions. Under high pressures and temperatures it converts to diamond.\nGraphite is used in pencils and lubricants. Its high conductivity makes it useful in electronic products such as electrodes, batteries, and solar panels.\nFrom the 16th century, all pencils were made with leads of English natural graphite, but modern pencil lead is most commonly a mix of powdered graphite and clay; it was invented by Nicolas-Jacques Conté in 1795.\nIt is chemically unrelated to the metal lead, whose ores had a similar appearance, hence the continuation of the name. Plumbago is another older term for natural graphite used for drawing, typically as a lump of the mineral without a wood casing. The term plumbago drawing is normally restricted to 17th and 18th century works, mostly portraits.\nToday, pencils are still a small but significant market for natural graphite. Around 7% of the 1.1 million tonnes produced in 2011 was used to make pencils. Low-quality amorphous graphite is used and sourced mainly from China."
+"aboutAnswer":"Volkswagen is a German automaker founded on 28 May 1937 by the German Labour Front, headquartered in Wolfsburg. It is the flagship marque of the Volkswagen Group, the largest automaker by worldwide sales in 2016 and 2017.\nThe group\'s biggest market is in China, which delivers 40% of its sales and profits.\nVolkswagen translates to \"people\'s car\" in German. The company\'s current international advertising slogan is just \"Volkswagen\", referencing the name\'s meaning.\nIn the early 1930s cars were a luxury: most Germans could afford nothing more elaborate than a motorcycle. Only one German out of 50 owned a car. Seeking a potential new market, some car makers began independent \"people\'s car\" projects – the Mercedes 170H, Adler AutoBahn, Steyr 55, and Hanomag 1.3L, among others.\nThe trend was not new, as Béla Barényi is credited with having conceived the basic design in the mid-1920s. Josef Ganz developed the Standard Superior (going as far as advertising it as the \"German Volkswagen\"). In Germany, the company Hanomag mass-produced the 2/10 PS \"Kommissbrot\", a small, cheap rear-engined car, from 1925 to 1928. Also, in Czechoslovakia, the Hans Ledwinka\'s penned Tatra T77, a very popular car amongst the German elite, was becoming smaller and more affordable at each revision."
 }

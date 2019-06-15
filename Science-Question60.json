@@ -1,21 +1,21 @@
 {
 "app":"Visual Quiz",
-"question":"What is the Unit for Measuring the Amplitude of a Sound?",
+"question":"What is name of the Manufacturer of this Car?",
 "answers":[
-	"Coulomb",
-	"Kelvin",
-	"Decibel",
-	"Ampere"
+	"Bentley",
+	"Mini",
+	"Aston Martin",
+	"Volkswagen"
 	],
 "correctAnswer":3,
 "hints":[
-	"Ampere is the base unit of electric current",
-	"Kelvin scale is an absolute thermodynamic temperature scale",
-	"Coulomb (symbol: C) is unit of electric charge"
+	"British automotive marque, owned by BMW since 2000",
+	"Performance versions of these models used the name Cooper",
+	"Hatch/Hardtop, Clubman, Coupe and Roadster are assembled at BMW\'s Plant Oxford in Cowley, England"
 	],
 "earn":{
-	"hints":1,
-	"hideAnswers":0
+	"hints":0,
+	"hideAnswers":1
 	},
-"aboutAnswer":"As the human ear can detect sounds with a wide range of amplitudes, sound pressure is often measured as a level on a logarithmic decibel scale.\nThe decibel (symbol: dB) is a unit of measurement used to express the ratio of one value of a power or field quantity to another on a logarithmic scale, the logarithmic quantity being called the power level or field level, respectively.\nIt can be used to express a change in value (e.g., +1 dB or −1 dB) or an absolute value. In the latter case, it expresses the ratio of a value to a fixed reference value; when used in this way, a suffix that indicates the reference value is often appended to the decibel symbol."
+"aboutAnswer":"Mini is a British automotive marque, owned by BMW since 2000, and used by them for a range of small cars.\nThe word Mini has been used in car model names since 1959, and in 1969 it became a marque in its own right when the name \"Mini\" replaced the separate \"Austin Mini\" and \"Morris Mini\" car model names.\nBMW acquired the marque in 1994 when it bought Rover Group (formerly British Leyland), which owned Mini, among other brands.\nThe original Mini was a line of British small cars manufactured by the British Motor Corporation, and its successors. Their models included the Morris Mini-Minor and the Austin Seven, the Countryman, Moke, 1275GT and Clubman. Performance versions of these models used the name Cooper, due to a partnership with racing legend John Cooper. The original two-door Mini continued in production until 2000.\nThe Mini was originally a product of the British Motor Corporation, which in 1966 became part of British Motor Holdings. British Motor Holdings merged with Leyland Motors in 1968 to form British Leyland. In the 1980s, British Leyland was broken-up and in 1988 Rover Group, including Mini, was acquired by British Aerospace. In 1994, Rover Group was acquired by BMW. In 2000, Rover Group was broken up by BMW, with BMW retaining the Mini brand.\nThe Mini Hatch/Hardtop, Clubman, Coupe and Roadster are assembled at BMW\'s Plant Oxford in Cowley, England. The Mini Convertible and Countryman are assembled at VDL Nedcar in Born (Netherlands), the Mini Hatch/Hardtop is also assembled here besides the Oxford plant. The Paceman was till 2016 assembled by Magna Steyr in Austria. A total of 301,526 Mini vehicles were sold worldwide in 2012."
 }
