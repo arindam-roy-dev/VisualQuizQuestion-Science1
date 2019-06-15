@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Unit for Measuring the Amplitude of a Sound?",
+"answers":[
+	"Coulomb",
+	"Kelvin",
+	"Decibel",
+	"Ampere"
+	],
+"correctAnswer":3,
+"hints":[
+	"Ampere is the base unit of electric current",
+	"Kelvin scale is an absolute thermodynamic temperature scale",
+	"Coulomb (symbol: C) is unit of electric charge"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"As the human ear can detect sounds with a wide range of amplitudes, sound pressure is often measured as a level on a logarithmic decibel scale.\nThe decibel (symbol: dB) is a unit of measurement used to express the ratio of one value of a power or field quantity to another on a logarithmic scale, the logarithmic quantity being called the power level or field level, respectively.\nIt can be used to express a change in value (e.g., +1 dB or −1 dB) or an absolute value. In the latter case, it expresses the ratio of a value to a fixed reference value; when used in this way, a suffix that indicates the reference value is often appended to the decibel symbol."
+}

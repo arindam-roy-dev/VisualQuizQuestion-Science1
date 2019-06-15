@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"What is the value of Standard Gravity of Earth?",
 "answers":[
@@ -7,7 +7,7 @@
 	"9.8 m/s2",
 	"9.91 m/s2"
 	],
-"correctAnswer":4,
+"correctAnswer":3,
 "hints":[
 	"The nominal \"average\" value at Earth\'s surface, known as Standard Gravity",
 	"Gravity decreases with altitude - It is 9.7639 m/s2 on the Nevado Huascarán mountain in Peru"

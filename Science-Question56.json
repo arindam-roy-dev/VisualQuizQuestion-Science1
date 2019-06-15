@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which of the following is used in Pencils?",
+"answers":[
+	"Silicon",
+	"Charcoal",
+	"Graphite",
+	"Boron"
+	],
+"correctAnswer":3,
+"hints":[
+	"Color of the Silicon is Silvery",
+	"It is a crystalline form of Carbon",
+	"Under high pressures and temperatures it converts to diamond"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Graphite, archaically referred to as plumbago, is a crystalline form of the element carbon with its atoms arranged in a hexagonal structure. It occurs naturally in this form and is the most stable form of carbon under standard conditions. Under high pressures and temperatures it converts to diamond.\nGraphite is used in pencils and lubricants. Its high conductivity makes it useful in electronic products such as electrodes, batteries, and solar panels.\nFrom the 16th century, all pencils were made with leads of English natural graphite, but modern pencil lead is most commonly a mix of powdered graphite and clay; it was invented by Nicolas-Jacques Conté in 1795.\nIt is chemically unrelated to the metal lead, whose ores had a similar appearance, hence the continuation of the name. Plumbago is another older term for natural graphite used for drawing, typically as a lump of the mineral without a wood casing. The term plumbago drawing is normally restricted to 17th and 18th century works, mostly portraits.\nToday, pencils are still a small but significant market for natural graphite. Around 7% of the 1.1 million tonnes produced in 2011 was used to make pencils. Low-quality amorphous graphite is used and sourced mainly from China."
+}

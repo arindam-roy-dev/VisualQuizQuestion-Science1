@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which among the following is a Positively charged particle emitted by a Radioactive element?",
+"answers":[
+	"Alpha ray",
+	"Beta ray",
+	"Gamma ray",
+	"Cathode ray"
+	],
+"correctAnswer":1,
+"hints":[
+	"It consists of two protons and two neutrons bound together into a particle identical to a helium-4 nucleus",
+	"Particles are named after the first letter in the Greek alphabet",
+	"gamma ray is negatively charged"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Alpha particles, also called alpha ray or alpha radiation, consist of two protons and two neutrons bound together into a particle identical to a helium-4 nucleus. They are generally produced in the process of alpha decay, but may also be produced in other ways.\nAlpha particles are named after the first letter in the Greek alphabet, α. The symbol for the alpha particle is α or α2+. Because they are identical to helium nuclei, they are also sometimes written as He2+ or 4 2He2+ indicating a helium ion with a +2 charge (missing its two electrons). If the ion gains electrons from its environment, the alpha particle becomes a normal (electrically neutral) helium atom 4 2He.\nRadioactive decay (also known as nuclear decay, radioactivity or nuclear radiation) is the process by which an unstable atomic nucleus loses energy (in terms of mass in its rest frame) by emitting radiation, such as an alpha particle, beta particle with neutrino or only a neutrino in the case of electron capture, or a gamma ray or electron in the case of internal conversion. A material containing such unstable nuclei is considered radioactive. Certain highly excited short-lived nuclear states can decay through neutron emission, or more rarely, proton emission."
+}

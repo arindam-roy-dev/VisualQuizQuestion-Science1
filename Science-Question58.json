@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which of the following is a non metal that remains liquid at room temperature?",
+"answers":[
+	"Bromine",
+	"Phosphorous",
+	"Chlorine",
+	"Helium"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is the third-lightest halogen, and is a fuming liquid with a deep red color",
+	"It evaporates readily to form a red to amber coloured gas",
+	"Boiling point of it is 58.8°C (​137.8°F) and melting point −7.2°C (​19°F)"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Bromine is a chemical element with the symbol Br and atomic number 35. It is the third-lightest halogen, and is a fuming liquid with a deep red color.\nAt room temperature, Bromine evaporates readily to form a red to amber coloured gas. Bromine\'s properties are intermediate between those of chlorine and iodine. Isolated independently by two chemists, Carl Jacob Löwig (in 1825) and Antoine Jérôme Balard (in 1826), its name was derived from the Ancient Greek βρῶμος (\"stench\"), referencing its sharp and disagreeable smell.\nElemental bromine is very reactive and thus does not occur free in nature, but in colourless soluble crystalline mineral halide salts, analogous to table salt. While it is rather rare in the Earth\'s crust, the high solubility of the bromide ion (Br−) has caused its accumulation in the oceans. Commercially the element is easily extracted from brine pools, mostly in the United States, Israel and China. The mass of bromine in the oceans is about one three-hundredth that of chlorine.\nBoiling point of Bromine is 58.8°C (​137.8°F) and melting point −7.2°C (​19°F). So, it remains liquid at room temperature."
+}
