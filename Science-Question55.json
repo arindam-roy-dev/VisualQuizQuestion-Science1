@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is this Machine?",
+"answers":[
+	"3D Printer",
+	"Inkjet Printer",
+	"Laser Printer",
+	"Microwave"
+	],
+"correctAnswer":1,
+"hints":[
+	"Materials being added together, typically layer by layer",
+	"Object is built from a computer-aided design (CAD) model",
+	"Solidified under computer control to create a three-dimensional object"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The term 3D printing covers a variety of processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together (such as liquid molecules or powder grains being fused together), typically layer by layer.\nThe most commonly used 3D Printing process is a material extrusion technique called fused deposition modeling (FDM). Metal Powder bed fusion has been gaining prominence lately during the immense applications of metal parts in the 3D printing industry. In 3D Printing, a three-dimensional object is built from a computer-aided design (CAD) model, usually by successively adding material layer by layer, unlike the conventional machining process, where material is removed from a stock item, or the casting and forging processes which date to antiquity.\nThe term \"3D printing\" originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer."
+}

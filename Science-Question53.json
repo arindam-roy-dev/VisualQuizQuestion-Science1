@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the Instrument?",
+"answers":[
+	"Radar",
+	"Camera",
+	"Binocular",
+	"Telescope"
+	],
+"correctAnswer":4,
+"hints":[
+	"Invented in the Netherlands at the beginning of the 17th century, by using glass lenses",
+	"It refers to a wide range of instruments capable of detecting different regions of the electromagnetic spectrum, and in some cases other types of detectors"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A telescope is an optical instrument that makes distant objects appear magnified by using an arrangement of lenses or curved mirrors and lenses, or various devices used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation.\nThe first known practical telescopes were refracting telescopes invented in the Netherlands at the beginning of the 17th century, by using glass lenses. They were used for both terrestrial applications and astronomy.\nThe reflecting telescope, which uses mirrors to collect and focus light, was invented within a few decades of the first refracting telescope. In the 20th century, many new types of telescopes were invented, including radio telescopes in the 1930s and infrared telescopes in the 1960s. The word telescope now refers to a wide range of instruments capable of detecting different regions of the electromagnetic spectrum, and in some cases other types of detectors."
+}

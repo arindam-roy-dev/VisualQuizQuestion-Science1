@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What type of Lens is it?",
+"answers":[
+	"Concave",
+	"Convex",
+	"Planar",
+	"Convex-Concave"
+	],
+"correctAnswer":2,
+"hints":[
+	"A lens with one convex and one concave side is convex-concave",
+	"Planner is flat lens",
+	"If the surfaces are depressed into the lens, it is called Concave",
+	"If the surfaces are bulging outwards from the lens, it is called Convex"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Most lenses are spherical lenses: their two surfaces are parts of the surfaces of spheres. Each surface can be convex (bulging outwards from the lens), concave (depressed into the lens), or planar (flat). The line joining the centres of the spheres making up the lens surfaces is called the axis of the lens. Typically the lens axis passes through the physical centre of the lens, because of the way they are manufactured.\nLenses may be cut or ground after manufacturing to give them a different shape or size. The lens axis may then not pass through the physical centre of the lens.\nA lens is biconvex (or double convex, or just convex) if both surfaces are convex. If both surfaces have the same radius of curvature, the lens is equiconvex. A lens with two concave surfaces is biconcave (or just concave).\nA lens with one convex and one concave side is convex-concave or meniscus. It is this type of lens that is most commonly used in corrective lenses."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In which temperature water has the highest density?",
+"answers":[
+	"0°C/ 32°F",
+	"4°C/ 39°F",
+	"10°C/ 50°F"
+	"100°C/ 212°F",
+	],
+"correctAnswer":2,
+"hints":[
+	"Water has unusual density curve",
+	"If water were most dense at the freezing point, then in winter the very cold water at the surface of lakes and other water bodies would sink"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The density of water is about 1 gram per cubic centimetre (62 lb/cu ft): this relationship was originally used to define the gram.\nThe density varies with temperature, but not linearly: as the temperature increases, the density rises to a peak at 4°C (39°F) and then decreases.\nThese effects are due to the reduction of thermal motion with cooling, which allows water molecules to form more hydrogen bonds that prevent the molecules from coming close to each other. While below 4°C the breakage of hydrogen bonds due to heating allows water molecules to pack closer despite the increase in the thermal motion (which tends to expand a liquid), above 4°C water expands as the temperature increases. Water near the boiling point is about 4% less dense than water at 4°C (39°F).\nThe unusual density curve and lower density of ice than of water is vital to life — if water were most dense at the freezing point, then in winter the very cold water at the surface of lakes and other water bodies would sink, the lake could freeze from the bottom up, and all life in them would be killed.\nFurthermore, given that water is a good thermal insulator (due to its heat capacity), some frozen lakes might not completely thaw in summer. The layer of ice that floats on top insulates the water below. Water at about 4°C (39°F) also sinks to the bottom, thus keeping the temperature of the water at the bottom constant."
+}

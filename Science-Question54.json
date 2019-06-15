@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the value of Standard Gravity of Earth?",
+"answers":[
+	"9.68 m/s2",
+	"9.7 m/s2",
+	"9.8 m/s2",
+	"9.91 m/s2"
+	],
+"correctAnswer":4,
+"hints":[
+	"The nominal \"average\" value at Earth\'s surface, known as Standard Gravity",
+	"Gravity decreases with altitude - It is 9.7639 m/s2 on the Nevado Huascarán mountain in Peru"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The gravity of Earth, denoted by g, is the net acceleration that is imparted to objects due to the combined effect of gravitation (from distribution of mass within Earth) and the centrifugal force (from the Earth\'s rotation).\nNear Earth\'s surface, gravitational acceleration is approximately 9.8 m/s2, which means that, ignoring the effects of air resistance, the speed of an object falling freely will increase by about 9.8 metres per second every second.\nThe precise strength of Earth\'s gravity varies depending on location. The nominal \"average\" value at Earth\'s surface, known as standard gravity is, by definition, 9.80665 m/s2. This quantity is denoted variously as gn, ge (though this sometimes means the normal equatorial value on Earth, 9.78033 m/s2), g0, gee, or simply g (which is also used for the variable local value).\nThe weight of an object on Earth\'s surface is the downwards force on that object, given by Newton\'s second law of motion, or F = ma (force = mass × acceleration). Gravitational acceleration contributes to the total gravity acceleration, but other factors, such as the rotation of Earth, also contribute, and, therefore, affect the weight of the object. Gravity does not normally include the gravitational pull of the Moon and Sun, which are accounted for in terms of tidal effects. It is a vector (physics) quantity, whose direction coincides with a plumb bob.\nThe surface of the Earth is rotating, so it is not an inertial frame of reference. At latitudes nearer the Equator, the outward centrifugal force produced by Earth\'s rotation is larger than at polar latitudes. This counteracts the Earth\'s gravity to a small degree – up to a maximum of 0.3% at the Equator – and reduces the apparent downward acceleration of falling objects.\nGravity decreases with altitude as one rises above the Earth\'s surface because greater altitude means greater distance from the Earth\'s centre. All other things being equal, an increase in altitude from sea level to 9,000 metres (30,000 ft) causes a weight decrease of about 0.29%."
+}
