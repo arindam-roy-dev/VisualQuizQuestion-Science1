@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"One Horsepower (imperial) is equal to?",
+"answers":[
+	"741.5 watts",
+	"732.0 watts",
+	"745.7 watts",
+	"757.5 watts"
+	],
+"correctAnswer":3,
+"hints":[
+	"Less than 750 watts",
+	"Greater than 740 watts"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Horsepower (hp) is a unit of measurement of power, or the rate at which work is done. There are many different standards and types of horsepower. Two common definitions being used today are the mechanical horsepower (or imperial horsepower), which is about 745.7 watts.\nThe term was adopted in the late 18th century by Scottish engineer James Watt to compare the output of steam engines with the power of draft horses. It was later expanded to include the output power of other types of piston engines, as well as turbines, electric motors and other machinery.\nThe definition of the unit varied among geographical regions. Most countries now use the SI unit watt for measurement of power. With the implementation of the EU Directive 80/181/EEC on January 1, 2010, the use of horsepower in the EU is permitted only as a supplementary unit."
+}

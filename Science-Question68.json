@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this mechanical instrument?",
+"answers":[
+	"Divider caliper",
+	"Vernier caliper",
+	"Outside caliper",
+	"Dial caliper"
+	],
+"correctAnswer":2,
+"hints":[
+	"It gives a direct reading of the distance measured with high accuracy and precision",
+	"Divider caliper, popularly called a Compass, is used in the process of marking out locations."
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"A caliper is a device used to measure the distance between two opposite sides of an object. Many types of calipers permit reading out a measurement on a ruled scale, a dial, or a digital display. But a caliper can be as simple as a compass with inward or outward-facing points. The tips of the caliper are adjusted to fit across the points to be measured and then the caliper is then removed and the distance read by measuring between the tips with a measuring tool, such as a ruler.\nThe vernier, dial, and digital calipers give a direct reading of the distance measured with high accuracy and precision. They are functionally identical, with different ways of reading the result.\nThese calipers comprise a calibrated scale with a fixed jaw, and another jaw, with a pointer, that slides along the scale. The distance between the jaws is then read in different ways for the three types.\nThe simplest method is to read the position of the pointer directly on the scale. When the pointer is between two markings, the user can mentally interpolate to improve the precision of the reading. This would be a simple calibrated caliper; but the addition of a vernier scale allows more accurate interpolation, and is the universal practice; this is the vernier caliper."
+}
