@@ -1,13 +1,13 @@
 {
 "app":"Visual Quiz",
-"question":"What is the name of this automotive (Car) part?",
+"question":"What is the name of this Part of a Car ?",
 "answers":[
 	"Roof Rack",
 	"Sun visor",
-	"Rear Spoiler",
+	"Spoiler",
 	"Axle"
 	],
-"correctAnswer":4,
+"correctAnswer":3,
 "hints":[
 	"It increases high speed stability due to the reduced rear lift",
 	"A sun visor is used to shade the eyes of drivers and passengers from the glare of sunlight",
