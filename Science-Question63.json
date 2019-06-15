@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the wavelength of X-rays?",
+"answers":[
+	"0.01 to 10 nm",
+	"0.1 to 10 nm",
+	"0.001 to 1 nm",
+	"0.01 to 1 nm"
+	],
+"correctAnswer":1,
+"hints":[
+	"X-ray wavelengths are shorter than UV rays and longer than Gamma rays",
+	"Wavelength of UV rays is from 10 to 400 nm",
+	"Greater than 0.001 nm"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"X-rays make up X-radiation, a form of high-energy electromagnetic radiation. Most X-rays have a wavelength ranging from 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz (3×1016 Hz to 3×1019 Hz) and energies in the range 100 eV to 100 keV.\nX-ray wavelengths are shorter than those of UV rays and typically longer than those of gamma rays.\nIn many languages, X-radiation is referred to as Röntgen radiation, after the German scientist Wilhelm Röntgen who discovered these on November 8, 1895, and who named it X-radiation to signify an unknown type of radiation.\nThe use of X-rays for medical purposes (which developed into the field of radiation therapy) was pioneered by Major John Hall-Edwards in Birmingham, England. Then in 1908, he had to have his left arm amputated because of the spread of X-ray dermatitis on his arm.\nIn 1914 Marie Curie developed radiological cars to support soldiers injured in World War I. The cars would allow for rapid X-ray imaging of wounded soldiers so battlefield surgeons could quickly and more accurately operate."
+}

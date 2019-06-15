@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the important Raw Material in Cement Industry?",
+"answers":[
+	"Crude oil",
+	"Coal",
+	"Limestone",
+	"High density polyethylene"
+	],
+"correctAnswer":3,
+"hints":[
+	"Crude oil is used in Petroleum industry",
+	"Polyethylene is Plustic",
+	"Raw Rock type materials are used to produce cement"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A cement is a binder, a substance used for construction that sets, hardens, and adheres to other materials to bind them together. Cement is seldom used on its own, but rather to bind sand and gravel (aggregate) together. Cement mixed with fine aggregate produces mortar for masonry, or with sand and gravel, produces concrete.\nCement is the most widely used material in existence and is only behind water as the planet\'s most-consumed resource.\nNon-hydraulic cement does not set in wet conditions or under water. Rather, it sets as it dries and reacts with carbon dioxide in the air. It is resistant to attack by chemicals after setting.\nNon-hydraulic cement, such as slaked lime (calcium oxide mixed with water), hardens by carbonation in the presence of carbon dioxide, which is naturally present in the air. First calcium oxide (lime) is produced from calcium carbonate (limestone or chalk) by calcination at temperatures above 825 °C (1,517 °F) for about 10 hours at atmospheric pressure.\nHydraulic cements (e.g., Portland cement) set and become adhesive due to a chemical reaction between the dry ingredients and water. The chemical reaction results in mineral hydrates that are not very water-soluble and so are quite durable in water and safe from chemical attack. This allows setting in wet conditions or under water and further protects the hardened material from chemical attack. The chemical process for hydraulic cement found by ancient Romans used volcanic ash (pozzolana) with added lime (calcium oxide)."
+}
