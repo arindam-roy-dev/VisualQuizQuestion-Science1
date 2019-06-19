@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"\'Bar\' is the unit of?",
+"answers":[
+	"Temperature",
+	"Heat",
+	"Atmospheric Pressure",
+	"Humidity"
+	],
+"correctAnswer":3,
+"hints":[
+	"Relative humidity is normally expressed as a percentage; a higher percentage means that the air-water mixture is more humid.",
+	"SI unit of heat is the Joule (J)",
+	"Temperature is expressed in Celsius scale (°C), Fahrenheit scale (°F), and Kelvin scale (K)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Atmospheric pressure, sometimes also called barometric pressure (after the sensor), is the pressure within the atmosphere of Earth (or that of another planet). The standard atmosphere (symbol: atm) is a unit of pressure defined as 1013.25 mbar (101325 Pa), equivalent to 760 mm Hg (torr), 29.9212 inches Hg, or 14.696 psi.\nhe atm unit is roughly equivalent to the mean sea-level atmospheric pressure on Earth, that is, the Earth's atmospheric pressure at sea level is approximately 1 atm.\nAverage sea-level pressure is 1013.25 mbar (101.325 kPa; 29.921 inHg; 760.00 mmHg).\nIn aviation, weather reports (METAR), QNH is transmitted around the world in millibars or hectopascals (1 hectopascal = 1 millibar), except in the United States, Canada, and Colombia where it is reported in inches of mercury (to two decimal places)."
+}
