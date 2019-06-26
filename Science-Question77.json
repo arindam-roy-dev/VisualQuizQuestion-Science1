@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"\'Knot\' is a unit of speed of which of the following?",
 "answers":[
@@ -7,7 +7,7 @@
 	"Aeroplanes and Ships",
 	"Sound waves"
 	],
-"correctAnswer":2,
+"correctAnswer":3,
 "hints":[
 	"It is exactly 1.852 km/h",
 	"The speed relative to the fluids in which they travel are measured in knots"
