@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Machine?",
+"answers":[
+	"Electric Generator",
+	"Transformer",
+	"Brushed DC electric motor",
+	"Induction motor"
+	],
+"correctAnswer":4,
+"hints":[
+	"AC electric motor",
+	"Three-phase squirrel-cage motors are widely used as industrial drives"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"An induction motor or asynchronous motor is an AC electric motor in which the electric current in the rotor needed to produce torque is obtained by electromagnetic induction from the magnetic field of the stator winding. An induction motor can therefore be made without electrical connections to the rotor. An induction motor\'s rotor can be either wound type or squirrel-cage type.\nThree-phase squirrel-cage induction motors are widely used as industrial drives because they are self-starting, reliable and economical. Single-phase induction motors are used extensively for smaller loads, such as household appliances like fans.\nAlthough traditionally used in fixed-speed service, induction motors are increasingly being used with variable-frequency drives (VFDs) in variable-speed service. VFDs offer especially important energy savings opportunities for existing and prospective induction motors in variable-torque centrifugal fan, pump and compressor load applications.\nSquirrel cage induction motors are very widely used in both fixed-speed and variable-frequency drive (VFD) applications.\nThe first commutator-free two phase AC induction motor was invented by Hungarian engineer Ottó Bláthy; he used the two phase motor to propel his invention, the electricity meter.\nThe first AC commutator-free three-phase induction motors were independently invented by Galileo Ferraris and Nikola Tesla, a working motor model having been demonstrated by the former in 1885 and by the latter in 1887."
+}

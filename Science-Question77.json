@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"\'Knot\' is a unit of speed of which of the following?",
+"answers":[
+	"Unit of Rotations",
+	"Light waves",
+	"Aeroplanes and Ships",
+	"Sound waves"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is exactly 1.852 km/h",
+	"The speed relative to the fluids in which they travel are measured in knots"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Knot is a unit of speed equal to one nautical mile per hour, exactly 1.852 km/h (approximately 1.15078 mph).\nThe ISO standard symbol for the knot is kn. The same symbol is preferred by the Institute of Electrical and Electronics Engineers (IEEE); kt is also common, especially in aviation, where it is the form recommended by the International Civil Aviation Organization (ICAO).\nThe knot is a non-SI unit. Worldwide, the knot is used in meteorology, and in maritime and air navigation—for example, a vessel travelling at 1 knot along a meridian travels approximately one minute of geographic latitude in one hour.\nThe speeds of vessels relative to the fluids in which they travel (boat speeds and air speeds) are measured in knots. For consistency, the speeds of navigational fluids (tidal streams, river currents and wind speeds) are also measured in knots. Thus, speed over the ground (SOG) (ground speed (GS) in aircraft) and rate of progress towards a distant point (\"velocity made good\", VMG) are also given in knots."
+}
