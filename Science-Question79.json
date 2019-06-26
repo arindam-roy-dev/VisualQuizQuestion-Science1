@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Glass is made of the mixture of?",
+"answers":[
+	"Mica",
+	"Silica",
+	"Carbon",
+	"Salt"
+	],
+"correctAnswer":2,
+"hints":[
+	"Chemical compound is Silicon Dioxide or quartz",
+	"It is the primary constituent of sand"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The most familiar, and historically the oldest, types of manufactured glass are \"silicate glasses\" based on the chemical compound silica (silicon dioxide, or quartz), the primary constituent of sand. The term glass, in popular usage, is often used to refer only to this type of material, which is familiar from use as window glass and in glass bottles. Of the many silica-based glasses that exist, ordinary glazing and container glass is formed from a specific type called soda-lime glass, composed of approximately 75% silicon dioxide (SiO2), sodium oxide (Na2O) from sodium carbonate (Na2CO3), calcium oxide (CaO), also called lime, and several minor additives.\nFused quartz is a glass made from chemically-pure silica. It has excellent resistance to thermal shock, being able to survive immersion in water while red hot. However, its high melting temperature (1723 °C) and viscosity make it difficult to work with. Normally, other substances are added to simplify processing. One is sodium carbonate (Na2CO3, \"soda\"), which lowers the glass-transition temperature.\nThe soda makes the glass water-soluble, which is usually undesirable, so lime (CaO, calcium oxide, generally obtained from limestone), some magnesium oxide (MgO) and aluminium oxide (Al2O3) are added to provide for a better chemical durability. The resulting glass contains about 70 to 74% silica by weight and is called a soda-lime glass. Soda-lime glasses account for about 90% of manufactured glass."
+}

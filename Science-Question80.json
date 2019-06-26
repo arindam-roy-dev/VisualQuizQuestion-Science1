@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Electronics Component, used inside a Computer?",
+"answers":[
+	"Solid State Hard Disk",
+	"Sound Card",
+	"RAM",
+	"Processor"
+	],
+"correctAnswer":3,
+"hints":[
+	"Computer data storage system",
+	"It is normally associated with volatile types of memory"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Random-access memory is the most common type of memory used for a Rapid-Access Memory which is a form of computer data storage that stores data and machine code currently being used.\nIn today\'s technology, random-access memory takes the form of integrated circuits. RAM is normally associated with volatile types of memory (such as DRAM modules), where stored information is lost if power is removed, although non-volatile RAM has also been developed.\nIntegrated-circuit RAM chips came into the market in the early 1970s, with the first commercially available DRAM chip, the Intel 1103, introduced in October 1970. Synchronous dynamic random-access memory (SDRAM) later debuted with the Samsung KM48SL2000 chip, developed in 1992 and released in 1993."
+}
