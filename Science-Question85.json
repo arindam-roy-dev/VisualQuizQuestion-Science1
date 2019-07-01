@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In terms of passangers carried, what is the Largest Airline based in Africa?",
+"answers":[
+	"South African Airways",
+	"Kenya Airways",
+	"EgyptAir",
+	"Tunisair"
+	],
+"correctAnswer":3,
+"hints":[
+	"State-owned company, 100% owned by the Government",
+	"The airline is headquartered at Cairo"	
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"EgyptAir is the flag carrier airline of Egypt. The airline is headquartered at Cairo International Airport, its main hub, operating scheduled passenger and freight services to more than 75 destinations in the Middle East, Europe, Africa, Asia, and the Americas. Egyptair is a member of Star Alliance and the Arab Air Carriers Organization.\nEgyptAir is a state-owned company, 100% owned by the Government of Egypt. The EgyptAir Holding Company was created in 2002 with seven companies, with two further companies added at later dates."
+}
