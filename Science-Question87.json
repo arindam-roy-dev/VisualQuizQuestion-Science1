@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who manufactured the very first android phone?",
+"answers":[
+	"Huawei",
+	"Motorolla",
+	"HTC",
+	"LG"
+	],
+"correctAnswer":3,
+"hints":[
+	"The phone was launched on 22 nd October 2008",
+	"Motorola Mobility was formed on January 4, 2011",
+	"It is a Taiwanese consumer electronics company"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The first android phone was launched by HTC on 22 nd October 2008. HTC Dream which is also known as the T-Mobile G1 in the United States of America and some parts of Europe is the first commercially launched device to be powered by Android operating system.\nThis was the first commercially released device to use the Linux-based Android operating system, which was purchased and further developed by Google and the Open Handset Alliance to create an open competitor to other major smartphone platforms of the time, such as Symbian operating system, BlackBerry OS, and iPhone OS.\nThe Dream was released to mostly positive reception. While the Dream was praised for its solid and robust hardware design, the introduction of the Android operating system was met with criticism for its lack of certain functionality and third-party software in comparison to more established platforms, but was still considered to be innovative due to its open nature, notifications system, and heavy integration with Google's services.\nThe Dream was discontinued by T-Mobile on 27 July 2010. The G1 was spiritually succeeded in October 2010 by the T-Mobile G2, a new HTC device which also featured stock Android and a sliding keyboard, and was T-Mobile USA's first \"4G\" smartphone. In Canada, Rogers suspended sales of the Dream on 15 January 2010 due to a bug affecting the proper use of emergency calls."
+}
