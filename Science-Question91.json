@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Plastics are made from?",
+"answers":[
+	"Stone",
+	"Sand",
+	"Metal",
+	"Petrochemicals"
+	],
+"correctAnswer":4,
+"hints":[
+	"It consists of wide range of synthetic or semi-synthetic organic compounds"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Plastic is material consisting of any of a wide range of synthetic or semi-synthetic organic compounds that are malleable and so can be molded into solid objects.\nPlastics are typically organic polymers of high molecular mass and often contain other substances. They are usually synthetic, most commonly derived from petrochemicals, however, an array of variants are made from renewable materials such as polylactic acid from corn or cellulosics from cotton linters.\nDue to their low cost, ease of manufacture, versatility, and imperviousness to water, plastics are used in a multitude of products of different scale, including paper clips and spacecraft. They have prevailed over traditional materials, such as wood, stone, horn and bone, leather, metal, glass, and ceramic, in some products previously left to natural materials.\nIn developed economies, about a third of plastic is used in packaging and roughly the same in buildings in applications such as piping, plumbing or vinyl siding. Other uses include automobiles (up to 20% plastic), furniture, and toys. In the developing world, the applications of plastic may differ — 42% of India\'s consumption is used in packaging. Worldwide, about 50 kg of plastic is produced annually per person, with production doubling every ten years.\nPlastics have many uses in the medical field as well, with the introduction of polymer implants and other medical devices derived at least partially from plastic. The field of plastic surgery is not named for use of plastic materials, but rather the meaning of the word plasticity, with regard to the reshaping of flesh.\nThe world\'s first fully synthetic plastic was bakelite, invented in New York in 1907, by Leo Baekeland who coined the term 'plastics'. Many chemists have contributed to the materials science of plastics, including Nobel laureate Hermann Staudinger who has been called \"the father of polymer chemistry\" and Herman Mark, known as \"the father of polymer physics\"."
+}

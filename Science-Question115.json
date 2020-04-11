@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this mechanical instrument?",
+"answers":[
+	"Audiometer",
+	"Compass",
+	"Hygrometer",
+	"Barometer"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is used to measure air pressure in a certain environment",
+	"Hygrometer is an instrument used to measure the amount of humidity and water vapour"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A barometer is a scientific instrument that is used to measure air pressure in a certain environment. Pressure tendency can forecast short term changes in the weather. Many measurements of air pressure are used within surface weather analysis to help find surface troughs, pressure systems and frontal boundaries.\nBarometers and pressure altimeters (the most basic and common type of altimeter) are essentially the same instrument, but used for different purposes. An altimeter is intended to be used at different levels matching the corresponding atmospheric pressure to the altitude, while a barometer is kept at the same level and measures subtle pressure changes caused by weather and elements of weather. The average atmospheric pressure on the earth\'s surface varies between 940 and 1040 hPa (mbar). The average atmospheric pressure at sea level is 1013 hPa (mbar).\nAn aneroid barometer is an instrument used for measuring pressure as a method that does not involve liquid. Invented in 1844 by French scientist Lucien Vidi, the aneroid barometer uses a small, flexible metal box called an aneroid cell (capsule), which is made from an alloy of beryllium and copper.\nThe evacuated capsule (or usually several capsules, stacked to add up their movements) is prevented from collapsing by a strong spring. Small changes in external air pressure cause the cell to expand or contract. This expansion and contraction drives mechanical levers such that the tiny movements of the capsule are amplified and displayed on the face of the aneroid barometer.\nMany models include a manually set needle which is used to mark the current measurement so a change can be seen. This type of barometer is common in homes and in recreational boats. It is also used in meteorology, mostly in barographs and as a pressure instrument in radiosondes."
+}

@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Negative terminal of a battery is called?",
+"answers":[
+	"Cathode",
+	"Anode",
+	"Voltaic pile",
+	"Electrode"
+	],
+"correctAnswer":2,
+"hints":[
+	"An electrode is an electrical conductor",
+	"Voltaic pile was the first electrical battery that could continuously provide an electric current to a circuit"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"When a battery is supplying electric power, its positive terminal is the cathode and its negative terminal is the anode.\nAn anode is an electrode through which the conventional current enters into a polarized electrical device. This contrasts with a cathode, an electrode through which conventional current leaves an electrical device. A common mnemonic is ACID, for \"anode current into device\".\nThe direction of conventional current (the flow of positive charges) in a circuit is opposite to the direction of electron flow, so (negatively charged) electrons flow out the anode into the outside circuit. In a galvanic cell, the anode is the electrode at which the oxidation reaction occurs.\nAn anode is also the wire or plate having excess positive charge. Consequently, anions will tend to move towards the anode. Historically, the anode has also been known as the zincode.\nThe terms anode and cathode are not defined by the voltage polarity of electrodes but the direction of current through the electrode. An anode is an electrode through which conventional current (positive charge) flows into the device from the external circuit, while a cathode is an electrode through which conventional current flows out of the device. If the current through the electrodes reverses direction, as occurs for example in a rechargeable battery when it is being charged, the naming of the electrodes as anode and cathode is reversed."
+}

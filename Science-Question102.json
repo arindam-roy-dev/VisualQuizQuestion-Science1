@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this mechanical instrument?",
+"answers":[
+	"Micrometer Screw Gauge",
+	"Caliper",
+	"Manometer",
+	"Odometer"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is used for accurate measurement of components in mechanical engineering",
+	"It is a device incorporating a calibrated screw"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A micrometer, sometimes known as a micrometer screw gauge, is a device incorporating a calibrated screw widely used for accurate measurement of components in mechanical engineering and machining as well as most mechanical trades, along with other metrological instruments such as dial, vernier, and digital calipers. Micrometers are usually, but not always, in the form of calipers (opposing ends joined by a frame).\nThe spindle is a very accurately machined screw and the object to be measured is placed between the spindle and the anvil. The spindle is moved by turning the ratchet knob or thimble until the object to be measured is lightly touched by both the spindle and the anvil.\nMicrometers are also used in telescopes or microscopes to measure the apparent diameter of celestial bodies or microscopic objects. The micrometer used with a telescope was invented about 1638 by William Gascoigne, an English astronomer.\nA standard one-inch micrometer has readout divisions of 0.001 inch and a rated accuracy of ±0.0001 inch. Both the measuring instrument and the object being measured should be at room temperature for an accurate measurement; dirt, abuse, and low operator skill are the main sources of error."
+}

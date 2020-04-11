@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which organic component has following molecular structure?",
+"answers":[
+	"Salt",
+	"Vinegar",
+	"Acetic Acid",
+	"Glucose"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is mainly made by plants and most algae during photosynthesis",
+	"In energy metabolism, it is the most important source of energy in all organisms",
+	"It is a simple sugar"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Glucose is a simple sugar with the molecular formula C6H12O6. Glucose is the most abundant monosaccharide, a subcategory of carbohydrates.\nGlucose is mainly made by plants and most algae during photosynthesis from water and carbon dioxide, using energy from sunlight, where it is used to make cellulose in cell walls, which is the most abundant carbohydrate.\nIn energy metabolism, glucose is the most important source of energy in all organisms. Glucose for metabolism is partially stored as a polymer, in plants mainly as starch and amylopectin and in animals as glycogen. Glucose circulates in the blood of animals as blood sugar. The naturally occurring form of glucose is d-glucose, while l-glucose is produced synthetically in comparatively small amounts and is of lesser importance.\nGlucose, as intravenous sugar solution, is on the World Health Organization\'s List of Essential Medicines, the most important medications needed in a basic health system.\nIn plants and some prokaryotes, glucose is a product of photosynthesis. Glucose is also formed by the breakdown of polymeric forms of glucose like glycogen (in animals and mushrooms) or starch (in plants). The cleavage of glycogen is termed glycogenolysis, the cleavage of starch is called starch degradation.\nThe metabolic pathway that begins with molecules containing two to four carbon atoms (C) and ends in the glucose molecule containing six carbon atoms is called gluconeogenesis and occurs in all living organisms. The smaller starting materials are the result of other metabolic pathways. Ultimately almost all biomolecules come from the assimilation of carbon dioxide in plants during photosynthesis.\nThe free energy of formation of α-d-glucose is 917.2 kilojoules per mole.\nIn humans, gluconeogenesis occurs in the liver and kidney, but also in other cell types. In the liver about 150 g of glycogen are stored, in skeletal muscle about 250 gm. However, the glucose released in muscle cells upon cleavage of the glycogen can not be delivered to the circulation because glucose is phosphorylated by the hexokinase, and a glucose-6-phosphatase is not expressed to remove the phosphate group. Unlike for glucose, there is no transport protein for glucose-6-phosphate.\nGluconeogenesis allows the organism to build up glucose from other metabolites, including lactate or certain amino acids, while consuming energy. The renal tubular cells can also produce glucose."
+}

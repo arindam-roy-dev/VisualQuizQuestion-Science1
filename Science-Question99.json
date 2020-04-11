@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What element is used, with iron, to make Steel?",
+"answers":[
+	"Carbon",
+	"Aluminum",
+	"Nickel",
+	"Copper"
+	],
+"correctAnswer":1,
+"hints":[
+	"Atomic number of that element is 6",
+	"The best known allotropes of that component are graphite, diamond, and buckminsterfullerene"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Steel is an alloy of iron and carbon, and sometimes other elements like chromium. Because of its high tensile strength and low cost, it is a major component used in buildings, infrastructure, tools, ships, trains, automobiles, machines, appliances, and weapons.\nIron is the base metal of steel. Iron is able to take on two crystalline forms (allotropic forms), body centred cubic and face-centred cubic, depending on its temperature. In the body-centred cubic arrangement, there is an iron atom in the centre and eight atoms at the vertices of each cubic unit cell; in the face-centred cubic, there is one atom at the centre of each of the six faces of the cubic unit cell and eight atoms at its vertices. It is the interaction of the allotropes of iron with the alloying elements, primarily carbon, that gives steel and cast iron their range of unique properties.\nIn pure iron, the crystal structure has relatively little resistance to the iron atoms slipping past one another, and so pure iron is quite ductile, or soft and easily formed. In steel, small amounts of carbon, other elements, and inclusions within the iron act as hardening agents that prevent the movement of dislocations.\nThe carbon in typical steel alloys may contribute up to 2.14% of its weight. Varying the amount of carbon and many other alloying elements, as well as controlling their chemical and physical makeup in the final steel (either as solute elements, or as precipitated phases), slows the movement of those dislocations that make pure iron ductile, and thus controls and enhances its qualities. These qualities include the hardness, quenching behaviour, need for annealling, tempering behaviour, yield strength, and tensile strength of the resulting steel. The increase in steel\'s strength compared to pure iron is possible only by reducing iron\'s ductility."
+}

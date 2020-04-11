@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Brass is an alloy of?",
+"answers":[
+	"Aluminium, Nickel and Cobalt",
+	"Aluminium and Scandium",
+	"Copper and Zinc",
+	"Copper, Iron and Nickel"
+	],
+"correctAnswer":3,
+"hints":[
+	"Alnico is a family of iron alloys which in addition to iron are composed of aluminium, nickel and cobalt",
+	"The addition of scandium to aluminium creates Nanoscale Al3Sc",
+	"Brass is similar to bronze, another alloy containing copper"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Brass is an alloy of copper and zinc, in proportions which can be varied to achieve varying mechanical and electrical properties. It is a substitutional alloy: atoms of the two constituents may replace each other within the same crystal structure.\nBrass is similar to bronze, another alloy containing copper, with tin in place of zinc; both bronze and brass may include small proportions of a range of other elements including arsenic, lead, phosphorus, aluminum, manganese, and silicon. The distinction between the two alloys is largely historical, and modern practice in museums and archaeology increasingly avoids both terms for historical objects in favour of the more general \"copper alloy\".\nBrass has long been a popular material for decoration for its bright gold-like appearance, e.g. for drawer pulls and doorknobs. It has also been widely used for all sorts of utensils due to many properties, such as low melting point, workability (both with hand tools and with modern turning and milling machines), durability, electrical and thermal conductivity.\nIt is still commonly used in applications where low friction and corrosion resistance is required, such as locks, hinges, gears, bearings, ammunition casings, zippers, plumbing, hose couplings, valves, and electrical plugs and sockets. It is also used extensively for musical instruments such as horns and bells. And also used as substitute of copper in making costume jewelry or fashion jewellery also said as imitation jewelry, as the composition of brass is generally 66 percent Copper and 34 percent of Zinc which makes it corrosion resistance as a better substitute for copper based jewelry. Brass is often used in situations in which it is important that sparks not be struck, such as in fittings and tools used near flammable or explosive materials.\nBrass has higher malleability than bronze or zinc. The relatively low melting point of brass (900 to 940 °C, 1,650 to 1,720 °F, depending on composition) and its flow characteristics make it a relatively easy material to cast. By varying the proportions of copper and zinc, the properties of the brass can be changed, allowing hard and soft brasses. The density of brass is 8.4 to 8.73 g/cm3 (0.303 to 0.315 lb/cu in).\nAluminium makes brass stronger and more corrosion-resistant. Aluminium also causes a highly beneficial hard layer of aluminium oxide (Al2O3) to be formed on the surface that is thin, transparent and self-healing. Tin has a similar effect and finds its use especially in seawater applications (naval brasses)."
+}

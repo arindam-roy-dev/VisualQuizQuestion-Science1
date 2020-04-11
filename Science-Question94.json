@@ -1,0 +1,23 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Who invented the telescope?",
+"answers":[
+	"Hans Lippershey",
+	"Archimedes",
+	"Galileo",
+	"Isaac Newton"
+	],
+"correctAnswer":1,
+"hints":[
+	"He was a German-Dutch spectacle-maker",
+	"He was born in Wesel, now in western Germany, in 1570",
+	"Isaac Newton was an English mathematician and physicist",
+	"Galileo was an Italian astronomer, physicist and engineer",
+	"Archimedes was a Greek mathematician, physicist, engineer, inventor, and astronomer"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Hans Lipperhey (1570 – buried 29 September 1619), also known as Johann Lippershey or Lippershey, was a German-Dutch spectacle-maker. He is commonly associated with the invention of the telescope, because he was the first one who tried to obtain a patent for it. It is, however, unclear if he was the first one to build a telescope.\nLipperhey was born in Wesel, now in western Germany, in 1570. He settled in Middelburg, the capital of the province of Zeeland, now in the Netherlands, in 1594, married the same year and became a citizen of Zeeland in 1602. During that time he became a master lens grinder and spectacle maker and established a shop. He remained in Middelburg until his death, in September 1619.\nHans Lipperhey is known for the earliest written record of a refracting telescope, a patent he filed in 1608. His work with optical devices grew out of his work as a spectacle maker, an industry that had started in Venice and Florence in the thirteenth century, and later expanded to the Netherlands and Germany.\nLipperhey applied to the States General of the Netherlands on 2 October 1608 for a patent for his instrument \"for seeing things far away as if they were nearby\", a few weeks before another Dutch instrument-maker\'s patent, that of Jacob Metius. Lipperhey failed to receive a patent since the same claim for invention had also been made by other spectacle-makers but he was handsomely rewarded by the Dutch government for copies of his design.\nThere are many stories as to how Lipperhey came by his invention. One version has Lipperhey observing two children playing with lenses in his shop and commenting how they could make a far away weather-vane seem closer when looking at it through two lenses. Other stories have Lipperhey\'s apprentice coming up with the idea or have Lipperhey copying someone else\'s discovery. Lipperhey\'s original instrument consisted of either two convex lenses with an inverted image or a convex objective and a concave eyepiece lens so it would have an upright image. This \"Dutch perspective glass\" (the name \"telescope\" would not be coined until three years later by Giovanni Demisiani) had a three-times (or 3X) magnification."
+}

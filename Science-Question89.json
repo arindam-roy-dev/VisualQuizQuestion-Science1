@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of the chemical formed by following molecular structure?",
+"answers":[
+	"Water",
+	"Baking Soda",
+	"Phosphoric Acid",
+	"Sulfuric acid"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is known as oil of vitriol",
+	"It is a colorless, odorless, and viscous liquid that is soluble in water",
+	"It is a mineral acid composed of the elements sulfur, oxygen and hydrogen, with molecular formula H2SO4"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Sulfuric acid known as oil of vitriol, is a mineral acid composed of the elements sulfur, oxygen and hydrogen, with molecular formula H2SO4. It is a colorless, odorless, and viscous liquid that is soluble in water and is synthesized in reactions that are highly exothermic.\nIts corrosiveness can be mainly ascribed to its strong acidic nature, and, if at a high concentration, its dehydrating and oxidizing properties. It is also hygroscopic, readily absorbing water vapor from the air. Upon contact, sulfuric acid can cause severe chemical burns and even secondary thermal burns; it is very dangerous even at lower concentrations.\nSulfuric acid is a very important commodity chemical, and a nation\'s sulfuric acid production is a good indicator of its industrial strength. It is widely produced with different methods, such as contact process, wet sulfuric acid process, lead chamber process and some other methods.\nSulfuric acid is also a key substance in the chemical industry. It is most commonly used in fertilizer manufacture, but is also important in mineral processing, oil refining, wastewater processing, and chemical synthesis. It has a wide range of end applications including in domestic acidic drain cleaners, as an electrolyte in lead-acid batteries, in dehydrating a compound, and in various cleaning agents.\nSulfuric acid is a very important commodity chemical, and indeed, a nation\'s sulfuric acid production is a good indicator of its industrial strength. World production in the year 2004 was about 180 million tonnes, with the following geographic distribution: Asia 35%, North America (including Mexico) 24%, Africa 11%, Western Europe 10%, Eastern Europe and Russia 10%, Australia and Oceania 7%, South America 7%.\nMost of this amount (≈60%) is consumed for fertilizers, particularly superphosphates, ammonium phosphate and ammonium sulfates. About 20% is used in chemical industry for production of detergents, synthetic resins, dyestuffs, pharmaceuticals, petroleum catalysts, insecticides and antifreeze, as well as in various processes such as oil well acidicizing, aluminium reduction, paper sizing, water treatment. About 6% of uses are related to pigments and include paints, enamels, printing inks, coated fabrics and paper, and the rest is dispersed into a multitude of applications such as production of explosives, cellophane, acetate and viscose textiles, lubricants, non-ferrous metals, and batteries.\nThe major use for sulfuric acid is in the \"wet method\" for the production of phosphoric acid, used for manufacture of phosphate fertilizers. In this method, phosphate rock is used, and more than 100 million tonnes are processed annually. This raw material is shown below as fluorapatite, though the exact composition may vary. This is treated with 93% sulfuric acid to produce calcium sulfate, hydrogen fluoride (HF) and phosphoric acid. The HF is removed as hydrofluoric acid."
+}

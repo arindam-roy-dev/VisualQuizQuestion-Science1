@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this mechanical instrument?",
+"answers":[
+	"Divider caliper",
+	"Vernier caliper",
+	"Outside caliper",
+	"Dial caliper"
+	],
+"correctAnswer":3,
+"hints":[
+	"Used to measure the external size of an object"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Outside calipers are used to measure the external size of an object.\nA caliper is a device used to measure the distance between two opposite sides of an object. Many types of calipers permit reading out a measurement on a ruled scale, a dial, or a digital display. But a caliper can be as simple as a compass with inward or outward-facing points. The tips of the caliper are adjusted to fit across the points to be measured and then the caliper is then removed and the distance read by measuring between the tips with a measuring tool, such as a ruler.\nWith some understanding of their limitations and usage, these instruments can provide a high degree of accuracy and repeatability. They are especially useful when measuring over very large distances; consider if the calipers are used to measure a large diameter pipe. A vernier caliper does not have the depth capacity to straddle this large diameter while at the same time reach the outermost points of the pipe\'s diameter. They are made from high carbon steel."
+}

@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which of the following is a Computer Programming Language?",
+"answers":[
+	"Photoshop",
+	"Windows 10",
+	"MySQL",
+	"C++"
+	],
+"correctAnswer":4,
+"hints":[
+	"It was developed by Danish computer scientist Bjarne Stroustrup at Bell Labs since 1979"
+	"Adobe Photoshop is a graphics editor developed and published by Adobe Inc",
+	"Windows 10 is a series of operating systems produced by Microsoft",
+	"MySQL is an open-source relational database management system (RDBMS)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language.\nThe language has expanded significantly over time, and modern C++ has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Oracle, and IBM, so it is available on many platforms.\nC++ was designed with a bias toward system programming and embedded, resource-constrained software and large systems, with performance, efficiency, and flexibility of use as its design highlights.\nC++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications, including desktop applications, video games, servers (e.g. e-commerce, Web search, or SQL servers), and performance-critical applications (e.g. telephone switches or space probes).\nC++ is standardized by the International Organization for Standardization (ISO), with the latest standard version ratified and published by ISO in December 2017 as ISO/IEC.\nBefore the initial standardization in 1998, C++ was developed by Danish computer scientist Bjarne Stroustrup at Bell Labs since 1979 as an extension of the C language; he wanted an efficient and flexible language similar to C that also provided high-level features for program organization.\nC++20 is the next planned standard, keeping with the current trend of a new version every three years."
+}

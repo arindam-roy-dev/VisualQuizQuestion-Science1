@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which is the fuel used in Aeroplane?",
+"answers":[
+	"Diesel",
+	"ATF",
+	"Compressed natural gas",
+	"E85"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is a specialized type of petroleum-based fuel",
+	"E85 is an ethanol fuel blend of 85% ethanol and 15% gasoline"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Jet fuel, aviation turbine fuel (ATF), or avtur, is a type of aviation fuel designed for use in aircraft powered by gas-turbine engines. It is colorless to straw-colored in appearance.\nThe most commonly used fuels for commercial aviation are Jet A and Jet A-1, which are produced to a standardized international specification. The only other jet fuel commonly used in civilian turbine-engine powered aviation is Jet B, which is used for its enhanced cold-weather performance.\nJet fuel is a mixture of a variety of hydrocarbons. Because the exact composition of jet fuel varies widely based on petroleum source, it is impossible to define jet fuel as a ratio of specific hydrocarbons. Jet fuel is therefore defined as a performance specification rather than a chemical compound.\nJet A specification fuel has been used in the United States since the 1950s and is usually not available outside the United States and a few Canadian airports such as Toronto and Vancouver, whereas Jet A-1 is the standard specification fuel used in the rest of the world other than the former Soviet states where TS-1 is the most common standard. Both Jet A and Jet A-1 have a flash point higher than 38 °C (100 °F), with an autoignition temperature of 210 °C (410 °F).\nJet B is a naphtha-kerosene fuel that is used for its enhanced cold-weather performance. However, Jet B\'s lighter composition makes it more dangerous to handle. For this reason, it is rarely used, except in very cold climates. A blend of approximately 30% kerosene and 70% gasoline, it is known as wide-cut fuel. It has a very low freezing point of −60 °C (−76 °F), and a low flash point as well. It is primarily used in some military aircraft. It is also used in northern Canada, Alaska, and sometimes Russia, because of its low freezing point.\nTS-1 is a jet fuel made to Russian standard GOST 10227 for enhanced cold-weather performance. It has somewhat higher volatility than Jet A-1 (flash point is 28 °C (82 °F) minimum). It has a very low freezing point, below −50 °C (−58 °F)."
+}
