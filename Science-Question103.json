@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this machine?",
+"answers":[
+	"Lathe",
+	"Milling Machines",
+	"Boring Mills",
+	"Grinders"
+	],
+"correctAnswer":1,
+"hints":[
+	"Mostly used in the manufacturing industries",
+	"It is a kind of cutting tool"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A lathe is a machine tool that rotates a workpiece about an axis of rotation to perform various operations such as cutting, sanding, knurling, drilling, deformation, facing, and turning, with tools that are applied to the workpiece to create an object with symmetry about that axis.\nLathes are used in woodturning, metalworking, metal spinning, thermal spraying, parts reclamation, and glass-working. Lathes can be used to shape pottery, the best-known design being the Potter\'s wheel. Most suitably equipped metalworking lathes can also be used to produce most solids of revolution, plane surfaces and screw threads or helices. Ornamental lathes can produce three-dimensional solids of incredible complexity. The workpiece is usually held in place by either one or two centers, at least one of which can typically be moved horizontally to accommodate varying workpiece lengths. Other work-holding methods include clamping the work about the axis of rotation using a chuck or collet, or to a faceplate, using clamps or dog clutch.\nExamples of objects that can be produced on a lathe include screws, candlesticks, gun barrels, cue sticks, table legs, bowls, baseball bats, musical instruments (especially woodwind instruments), crankshafts and much more.\nIn a metalworking lathe, metal is removed from the workpiece using a hardened cutting tool, which is usually fixed to a solid moveable mounting, either a tool-post or a turret, which is then moved against the workpiece using handwheels or computer-controlled motors. These cutting tools come in a wide range of sizes and shapes, depending upon their application. Some common styles are diamond, round, square and triangular."
+}

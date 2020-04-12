@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this device?",
+"answers":[
+	"Piano",
+	"Typewriter",
+	"Computer Keyboard",
+	"Musical keyboard"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a typewriter-style device",
+	"It also used to give commands to the operating system of a computer, such as Windows\' Control-Alt-Delete combination"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A computer keyboard is a typewriter-style device which uses an arrangement of buttons or keys to act as mechanical levers or electronic switches. Following the decline of punch cards and paper tape, interaction via teleprinter-style keyboards became the main input method for computers.\nKeyboard keys (buttons) typically have characters engraved or printed on them, and each press of a key typically corresponds to a single written symbol. However, producing some symbols may require pressing and holding several keys simultaneously or in sequence. While most keyboard keys produce letters, numbers or signs (characters), other keys or simultaneous key presses can produce actions or execute computer commands.\nIn normal usage, the keyboard is used as a text entry interface for typing text and numbers into a word processor, text editor or any other program. In a modern computer, the interpretation of key presses is generally left to the software. A computer keyboard distinguishes each physical key from every other key and reports all key presses to the controlling software. Keyboards are also used for computer gaming — either regular keyboards or keyboards with special gaming features, which can expedite frequently used keystroke combinations.\nA keyboard is also used to give commands to the operating system of a computer, such as Windows\' Control-Alt-Delete combination. Although on Pre-Windows 95 Microsoft operating systems this forced a re-boot, now it brings up a system security options screen."
+}

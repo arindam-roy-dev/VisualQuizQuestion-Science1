@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Deutsche Bahn (DB), is an european railway company, operates in which country?",
+"answers":[
+	"England",
+	"France",
+	"Germany",
+	"Canada"
+	],
+"correctAnswer":3,
+"hints":[
+	"Headquartered in Berlin"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company (AG), with the Federal Republic of Germany being its single shareholder.\nDeutsche Bahn describes itself as the second-largest transport company in the world, after the German postal and logistics company Deutsche Post / DHL, and is the largest railway operator and infrastructure owner in Europe. Deutsche Bahn was the largest railway company in the world by revenue in 2015. It carries about two billion passengers annually.\nThe group is divided into several companies, including DB Fernverkehr (long-distance passenger), DB Regio (local passenger services) and DB Cargo (rail freight). The Group subsidiary DB Netz also operates large parts of the German railway infrastructure and thus the largest rail network in Europe.\nPassenger transport companies carried around 4.4 billion passengers in 2016 with their trains and buses. In 2016 DB logistics companies transported 277 million tons of goods in rail freight transport."
+}

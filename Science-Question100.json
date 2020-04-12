@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this device?",
+"answers":[
+	"Hard Disk",
+	"CD-ROM",
+	"Floppy disk",
+	"SD card"
+	],
+"correctAnswer":3,
+"hints":[
+	"They became commercially available in 1971",
+	"Those were gradually replaced by CD-ROMs, DVDs and online distribution",
+	"It is disk storage of magnetic storage medium",
+	"It is also called as FDD"
+	],
+"earn":{
+	"hints":5,
+	"hideAnswers":5
+	},
+"aboutAnswer":"Floppy disk is a type of disk storage composed of a disk of thin and flexible magnetic storage medium, sealed in a rectangular plastic enclosure lined with fabric that removes dust particles. Floppy disks are read and written by a floppy disk drive (FDD).\nFloppy disks, initially as 8-inch (203 mm) media and later in 5 1⁄4-inch (133 mm) and ​3 1⁄2 inch (90 mm) sizes, were a ubiquitous form of data storage and exchange from the mid 1970s into the first years of the 21st century.\nBy 2006, computers were rarely manufactured with installed floppy disk drives; ​3 1⁄2-inch floppy disks can be used with an external USB floppy disk drive, but USB drives for ​5 1⁄4-inch, 8-inch, and non-standard diskettes are rare to non-existent. These formats are usually handled by older equipment.\nThe prevalence of floppy disks in late 20th century culture was such that many electronic and software programs still use the floppy disks as save icons. While floppy disk drives still have some limited uses, especially with legacy industrial computer equipment, they have been superseded by data storage methods with much greater capacity and transfer speeds, such as USB flash drives, flash storage cards, optical discs and storage available through computer networks such as cloud storage.\nThe first commercial floppy disks, developed in the late 1960s, were 8 inches (200 mm) in diameter; they became commercially available in 1971 as a component of IBM products and then were sold separately beginning in 1972 by Memorex and others.\nFloppy disks became commonplace during the 1980s and 1990s in their use with personal computers to distribute software, transfer data, and create backups. Before hard disks became affordable to the general population, floppy disks were often used to store a computer\'s operating system (OS). Most home computers from that period have an elementary OS and BASIC stored in ROM, with the option of loading a more advanced operating system from a floppy disk.\nBy the early 1990s, the increasing software size meant large packages like Windows or Adobe Photoshop required a dozen disks or more. In 1996, there were an estimated five billion standard floppy disks in use. Then, distribution of larger packages was gradually replaced by CD-ROMs, DVDs and online distribution."
+}

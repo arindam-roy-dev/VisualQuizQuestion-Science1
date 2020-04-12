@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this device?",
+"answers":[
+	"Microscope",
+	"Forceps",
+	"Power Blotter Station",
+	"Microtome"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is an instrument used to see objects that are too small to be seen by the naked eye",
+	"Microtome is a tool used to cut extremely thin slices of material, known as sections",
+	"Forceps are a handheld, hinged instrument used for grasping and holding objects"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Microscope is an instrument used to see objects that are too small to be seen by the naked eye. Microscopy is the science of investigating small objects and structures using such an instrument. Microscopic means invisible to the eye unless aided by a microscope.\nThere are many types of microscopes, and they may be grouped in different ways. One way is to describe the way the instruments interact with a sample to create images, either by sending a beam of light or electrons to a sample in its optical path, or by scanning across, and a short distance from the surface of a sample using a probe. The most common microscope (and the first to be invented) is the optical microscope, which uses light to pass through a sample to produce an image. Other major types of microscopes are the fluorescence microscope, the electron microscope (both the transmission electron microscope and the scanning electron microscope) and the various types of scanning probe microscopes.\nAlthough objects resembling lenses date back 4000 years and there are Greek accounts of the optical properties of water-filled spheres (5th century BC) followed by many centuries of writings on optics, the earliest known use of simple microscopes (magnifying glasses) dates back to the widespread use of lenses in eyeglasses in the 13th century.\nThe most common type of microscope (and the first invented) is the optical microscope. This is an optical instrument containing one or more lenses producing an enlarged image of a sample placed in the focal plane.\nOptical microscopes have refractive glass (occasionally plastic or quartz), to focus light on the eye or on to another light detector. Mirror-based optical microscopes operate in the same manner. Typical magnification of a light microscope, assuming visible range light, is up to 1250x with a theoretical resolution limit of around 0.250 micrometres or 250 nanometres."
+}
