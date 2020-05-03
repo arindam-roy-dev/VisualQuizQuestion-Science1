@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is full form of LCD, which is used as flat-panel display?",
+"answers":[
+	"Light Creating Diode",
+	"Liquid Crystal display",
+	"Light Crystal Diode",
+	"Plasma Display Panel"
+	],
+"correctAnswer":2,
+"hints":[
+	"It does not emit light directly, instead using a backlight or reflector to produce images"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers.\nLiquid crystals do not emit light directly, instead using a backlight or reflector to produce images in color or monochrome.\nLCDs are used in a wide range of applications, including LCD televisions, computer monitors, instrument panels, aircraft cockpit displays, and indoor and outdoor signage. Small LCD screens are common in portable consumer devices such as digital cameras, watches, calculators, and mobile telephones, including smartphones.\nLCD screens have replaced heavy, bulky cathode ray tube (CRT) displays in nearly all applications.\nEach pixel of an LCD typically consists of a layer of molecules aligned between two transparent electrodes, and two polarizing filters (parallel and perpendicular), the axes of transmission of which are (in most of the cases) perpendicular to each other. Without the liquid crystal between the polarizing filters, light passing through the first filter would be blocked by the second (crossed) polarizer. Before an electric field is applied, the orientation of the liquid-crystal molecules is determined by the alignment at the surfaces of electrodes."
+}

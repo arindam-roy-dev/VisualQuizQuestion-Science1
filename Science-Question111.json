@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this multi-role fighter jet developed by Russia?",
+"answers":[
+	"Sukhoi-35",
+	"Rafale",
+	"Boeing F-22",
+	"Chengdu J-20"
+	],
+"correctAnswer":1,
+"hints":[
+	"The Chengdu J-20 is developed by China",
+	"The Boeing F-22 is developed by USA",
+	"The Rafale is developed by France"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Sukhoi Su-35 is the designation for two improved derivatives of the Su-27 air-defence fighter. They are single-seat, twin-engine, supermaneuverable aircraft, designed by the Sukhoi Design Bureau and built by the Komsomolsk-on-Amur Aircraft Plant.\nThe type was originally developed by the Soviet Union from the Su-27 and was known as the Su-27M. It incorporated canards and a multi-function radar giving it multi-role capabilities.\nThe first prototype made its maiden flight in June 1988. Following the dissolution of the Soviet Union Sukhoi re-designated it as the Su-35 to attract export orders. Fourteen aircraft were produced and used for tests and demonstrations; one example had thrust-vectoring engines and was in turn redesignated the Su-37.\nA sole Su-35UB two-seat trainer was also built in the late 1990s that resembled the Su-30MK family.\nIn 2003, Sukhoi embarked on a second modernization of the Su-27 to serve as an interim aircraft awaiting the development of the Sukhoi PAK FA (Su-57) program. Also known as the Su-35, this version has a redesigned cockpit and weapons-control system and features thrust-vectoring engines in place of the canards.\nThe type made its first flight in February 2008. Although it was designed for export, the Russian Air Force became the launch customer in 2009, with the production version designated Su-35S.\nChina\'s People\'s Liberation Army Air Force and the Indonesian Air Force have also placed orders."
+}

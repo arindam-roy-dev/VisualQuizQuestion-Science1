@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which machine is this?",
+"answers":[
+	"Excavator",
+	"Sewing Machine",
+	"Vacuum Cleaner",
+	"Drill Machine"
+	],
+"correctAnswer":4,
+"hints":[
+	"Driven by an electric motor",
+	"Commonly used in woodworking, metalworking, machine tool fabrication, construction and utility projects"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A drill is a tool primarily used for making round holes or driving fasteners. It is fitted with a bit, either a drill or driver, depending on application, secured by a chuck. Some powered drills also include a hammer function.\nDrills vary widely in speed, power, and size. They are characteristically corded electrically driven devices, with hand-operated types dramatically decreasing in popularity and cordless battery-powered ones proliferating.\nDrills are commonly used in woodworking, metalworking, machine tool fabrication, construction and utility projects. Specially designed versions are made for medicine, space, and miniature applications.\nAn electric drill is a drill which is driven by an electric motor. The invention of the electric drill is credited to Arthur James Arnot and William Blanch Brain of Melbourne, Australia who patented the electric drill in 1889.\nIn 1895, the first portable handheld drill was created by brothers Wilhelm & Carl Fein of Stuttgart, Germany. In 1917 the first trigger-switch, pistol-grip portable drill was patented by Black & Decker."
+}

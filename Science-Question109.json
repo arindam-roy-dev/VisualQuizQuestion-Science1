@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Solar Panels are consist of?",
+"answers":[
+	"Reserve Cells",
+	"Fuel Cells",
+	"Lithium Ion Cells",
+	"Photo Voltaics Cells"
+	],
+"correctAnswer":4,
+"hints":[
+	"These use light energy (photons) from the Sun to generate electricity",
+	"Fuel cell is an electrochemical cell that converts the chemical energy of a fuel"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The term solar panel is used colloquially for a photo-voltaic (PV) module.\nA PV module is an assembly of photo-voltaic cells mounted in a frame work for installation. Photo-voltaic cells use sunlight as a source of energy and generate direct current electricity.\nA collection of PV modules is called a PV Panel, and a system of Panels is an Array. Arrays of a photovoltaic system supply solar electricity to electrical equipment.\nThe most common application of solar energy collection outside agriculture is solar water heating systems.\Photovoltaic modules use light energy (photons) from the Sun to generate electricity through the photovoltaic effect. Most modules use wafer-based crystalline silicon cells or thin-film cells. The structural (load carrying) member of a module can be either the top layer or the back layer.\nCells must be protected from mechanical damage and moisture. Most modules are rigid, but semi-flexible ones based on thin-film cells are also available.\nThe cells are connected electrically in series, one to another to a desired voltage, and then in parallel to increase amperage. The wattage of the module is the mathematical product of the voltage and the amperage of the module."
+}

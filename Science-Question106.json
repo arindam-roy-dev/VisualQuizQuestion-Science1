@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which scientific principle is this?",
+"answers":[
+	"Theory of Relativity",
+	"Mass Energy Equivalence",
+	"Gravitational Waves",
+	"Equations of Motion"
+	],
+"correctAnswer":2,
+"hints":[
+	"(c) stands for speed of light  (c = ~3×108 m/s)",
+	"It arose originally from special relativity as a paradox"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"In physics, mass–energy equivalence is the principle that anything having mass has an equivalent amount of energy and vice versa, with these fundamental quantities directly relating to one another by Albert Einstein\'s famous formula.\nThis formula states that the equivalent energy (E) can be calculated as the mass (m) multiplied by the speed of light (c = ~3×108 m/s) squared. Similarly, anything having energy exhibits a corresponding mass m given by its energy E divided by the speed of light squared c2.\nBecause the speed of light is a large number in everyday units, the formula implies that even an everyday object at rest with a modest amount of mass has a very large amount of energy intrinsically.\nChemical reactions, nuclear reactions, and other energy transformations may cause a system to lose some of its energy content to the environment (and thus some corresponding mass), releasing it as the radiant energy of light or as thermal energy for example."
+}

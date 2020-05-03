@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What kind of Display it is?",
+"answers":[
+	"CRT (Cathode ray tube)",
+	"LCD (Liquid crystal display)",
+	"LED (Light emitting diode)",
+	"Plasma panel"
+	],
+"correctAnswer":1,
+"hints":[
+	"They have been largely superseded by newer display technologies such as LCD and OLED displays",
+	"Technology wise, it is Analog"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The cathode-ray tube (CRT) is a vacuum tube that contains one or more electron guns and a phosphorescent screen and is used to display images.\nIt modulates, accelerates, and deflects electron beam(s) onto the screen to create the images. The images may represent electrical waveforms (oscilloscope), pictures (television, computer monitor), radar targets, or other phenomena.\nCRTs have also been used as memory devices, in which case the visible light emitted from the fluorescent material (if any) is not intended to have significant meaning to a visual observer (though the visible pattern on the tube face may cryptically represent the stored data).\nIn television sets and computer monitors, the entire front area of the tube is scanned repetitively and systematically in a fixed pattern called a raster. In color devices, an image is produced by controlling the intensity of each of the three electron beams, one for each additive primary color (red, green, and blue) with a video signal as a reference.\nSince the late 2000s, CRTs have been largely superseded by newer \"flat panel\" display technologies such as LCD, plasma display, and OLED displays.\nThe last known manufacturer of CRTs, Videocon, ceased in 2015."
+}
