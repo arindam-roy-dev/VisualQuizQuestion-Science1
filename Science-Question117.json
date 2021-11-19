@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the raw material of Plastics?",
+"answers":[
+	"Bauxite",
+	"Fossil Fuel",
+	"Sand",
+	"Seeds of the Avena Grasses"
+	],
+"correctAnswer":2,
+"hints":[
+	"Plastics typically are made through human industrial systems",
+	"Plastics are a wide range of synthetic or semi-synthetic materials"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Plastics are a wide range of synthetic or semi-synthetic materials that use polymers as a main ingredient.\nPlastics typically are made through human industrial systems. Most modern plastics are derived from fossil fuel-based chemicals like natural gas or petroleum; however, recent industrial methods use variants made from renewable materials, such as corn or cotton derivatives.\nTheir plasticity makes it possible for plastics to be moulded, extruded or pressed into solid objects of various shapes. This adaptability, plus a wide range of other properties, such as being lightweight, durable, flexible, and inexpensive to produce, has led to its widespread use.\nIn developed economies, about a third of plastic is used in packaging and roughly the same in buildings in applications such as piping, plumbing or vinyl siding.\n Other uses include automobiles (up to 20% plastic), furniture, and toys.\nThe world\'s first fully synthetic plastic was Bakelite, invented in New York in 1907, by Leo Baekeland, who coined the term \"plastics\".\nDozens of different types of plastics are produced today, such as polyethylene, which is widely used in product packaging, and polyvinyl chloride, used in construction and pipes because of its strength and durability.\nThe success and dominance of plastics starting in the early 20th century has caused widespread environmental problems, due to their slow decomposition rate in natural ecosystems. Toward the end of the 20th century, the plastics industry promoted recycling in order to assuage environmental concerns while continuing to produce virgin plastic.\nThe main companies producing plastics doubted the economic viability of recycling at the time, and this is reflected in contemporary plastic collection.\nMost plastic produced has not been reused, either being captured in landfills or persisting in the environment as plastic pollution. Plastic pollution can be found in all the world\'s major water bodies, for example, creating garbage patches in all of the world\'s oceans and contaminating terrestrial ecosystems."
+}
