@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which electronic component is this?",
+"answers":[
+	"Integrated circuit (IC)",
+	"Capacitor",
+	"Light emitting diode",
+	"Transistor"
+	],
+"correctAnswer":3,
+"hints":[
+	"Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons",
+	"It has many advantages over incandescent light sources",
+	"Emits light when current flows through it"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it.\nElectrons in the semiconductor recombine with electron holes, releasing energy in the form of photons. The color of the light (corresponding to the energy of the photons) is determined by the energy required for electrons to cross the band gap of the semiconductor. White light is obtained by using multiple semiconductors or a layer of light-emitting phosphor on the semiconductor device.\nLEDs have many advantages over incandescent light sources, including lower power consumption, longer lifetime, improved physical robustness, smaller size, and faster switching.\nIn a light emitting diode, the recombination of electrons and electron holes in a semiconductor produces light (be it infrared, visible or UV), a process called \"electroluminescence\".\nThe wavelength of the light depends on the energy band gap of the semiconductors used. Since these materials have a high index of refraction, design features of the devices such as special optical coatings and die shape are required to efficiently emit light.\nUnlike a laser, the light emitted from an LED is neither spectrally coherent nor even highly monochromatic. However, its spectrum is sufficiently narrow that it appears to the human eye as a pure (saturated) color.\nAlso unlike most lasers, its radiation is not spatially coherent, so it cannot approach the very high brightnesses characteristic of lasers."
+}

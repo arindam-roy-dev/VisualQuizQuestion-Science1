@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which car manufacturing company logo is this?",
+"answers":[
+	"Porsche",
+	"Ford Mustang",
+	"Baojun",
+	"Mazda"
+	],
+"correctAnswer":4,
+"hints":[
+	"Japanese multinational automaker company",
+	"Offers passenger cars like CX-5, Bongo Pickup trucks, Bongo van etc",
+	"First mass-produced electric car is MX-30"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.\nIn 2015, Mazda produced 1.5 million vehicles for global sales, the majority of which (nearly 1 million) were produced in the company\'s Japanese plants, with the remainder coming from a variety of other plants worldwide. In 2015, Mazda was the fifteenth largest automaker by production worldwide.\nMazda began as the Toyo Cork Kogyo Co. Ltd, as a cork-making factory founded in Hiroshima, Japan, 30 January 1920. Toyo Cork Kogyo renamed itself to Toyo Kogyo Co. Ltd. in 1927.In the late 1920s the company had to be saved from bankruptcy by Hiroshima Saving Bank and other business leaders in Hiroshima.\nIn 1931 Toyo Kogyo moved from manufacturing machine tools to vehicles with the introduction of the Mazda-Go auto rickshaw. Toyo Kogyo produced weapons for the Japanese military throughout the Second World War, most notably the series 30 through 35 Type 99 rifle.\nThe company formally adopted the Mazda name in 1984, though every automobile sold from the beginning bore that name.\nThe Mazda R360 was introduced in 1960, followed by the Mazda Carol in 1962 and were sold at a specific retail dealership that sold passenger cars called \"Mazda Auto Store\" whereas commercial products were sold at \"Mazda Store\". As Mazda continued to offer passenger cars like the Savanna, Familia, Luce, Cosmo and Capella, they were added to the \"Mazda Auto Store\" network only.\nFrom 1974 to 2015, Mazda had a partnership with the Ford Motor Company, which acquired a 24.5% stake in 1979, upped to a 33.4% ownership of Mazda in May 1995. Under the administration of Alan Mulally, Ford gradually divested its stake in Mazda from 2008 to 2015, with Ford holding 2.1% of Mazda stock as of 2014 and severing most production as well as development ties.\nIn May 2015, the company signed an agreement with Toyota to form a \"long-term partnership\", that would, among others, see Mazda supply Toyota with fuel-efficient SkyActiv gasoline and diesel engine technology in exchange for hydrogen fuel cell systems."
+}

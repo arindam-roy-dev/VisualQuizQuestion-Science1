@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The concept of zero as a written digit in the decimal place value notation was developed in which country?",
+"answers":[
+	"India",
+	"China",
+	"America",
+	"Cambodia"
+	],
+"correctAnswer":1,
+"hints":[
+	"In AD 690, Empress Wǔ promulgated Zetian characters, one of which was \"〇\" came to represent zero. But zero was not treated as a number at that time, but as a \"vacant position\".",
+	"Pingala (3rd/2nd century BC), a Sanskrit prosody scholar, used the Sanskrit word śūnya explicitly to refer to zero"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Pingala (3rd/2nd century BC), a Sanskrit prosody scholar, used binary numbers in the form of short and long syllables (the latter equal in length to two short syllables), a notation similar to Morse code. Pingala used the Sanskrit word śūnya explicitly to refer to zero.\nThe concept of zero as a written digit in the decimal place value notation was developed in India, presumably as early as during the Gupta period (5th century), with the oldest unambiguous evidence dating to the 7th century.\nA symbol for zero, a large dot likely to be the precursor of the still-current hollow symbol, is used throughout the Bakhshali manuscript, a practical manual on arithmetic for merchants.\nIn 2017, three samples from the manuscript were shown by radiocarbon dating to come from three different centuries: from AD 224–383, AD 680–779, and AD 885–993, making it South Asia\'s oldest recorded use of the zero symbol.\nIt is not known how the birch bark fragments from different centuries forming the manuscript came to be packaged together.\nThe Lokavibhāga, a Jain text on cosmology surviving in a medieval Sanskrit translation of the Prakrit original, which is internally dated to AD 458 (Saka era 380), uses a decimal place-value system, including a zero. In this text, śūnya (\"void, empty\") is also used to refer to zero.\nThe Aryabhatiya (500 AD), states sthānāt sthānaṁ daśaguṇaṁ syāt \"from place to place each is ten times the preceding.\""
+}
