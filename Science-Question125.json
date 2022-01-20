@@ -10,7 +10,7 @@
 "correctAnswer":1,
 "hints":[
 	"The current that flows through each of the components is the same",
-	"The voltage across the network is equal to the sum of the voltages across each component"
+	"The voltage across the network is equal to the sum of the voltages across each component",
 	"In a parallel circuit, the voltage across each of the components is the same"
 	],
 "earn":{
