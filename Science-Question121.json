@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which airline company logo is this?",
+"answers":[
+	"Delta Airlines",
+	"Emirates",
+	"Lufthansa",
+	"Qantas Airways"
+	],
+"correctAnswer":3,
+"hints":[
+	"Second-largest airline in Europe in terms of passengers carried",
+	"German airline company",
+	"Emirates is the largest airline of the United Arab Emirates",
+	"Qantas Airways is Australian airline"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Deutsche Lufthansa AG (commonly shortened to Lufthansa), is the flag carrier and largest airline of Germany which, when combined with its subsidiaries, is the second-largest airline in Europe in terms of passengers carried.\nThe name of the former flag carrier is derived from the German word Luft meaning \"air\" and Hansa for the Hanseatic League. Lufthansa is one of the five founding members of Star Alliance, the world\'s largest airline alliance, formed in 1997. The company slogan is \'Say yes to the world\'.\nBesides its own services, and owning subsidiary passenger airlines Austrian Airlines, Swiss International Air Lines, Brussels Airlines, and Eurowings, Deutsche Lufthansa AG owns several aviation-related companies, such as Lufthansa Technik and LSG Sky Chefs, as part of the Lufthansa Group.\nIn total, the group has over 700 aircraft, making it one of the largest airline fleets in the world.\nLufthansa\'s registered office and corporate headquarters are in Cologne. The main operations base, called Lufthansa Aviation Center, is at Lufthansa\'s primary hub at Frankfurt Airport, and its secondary hub is at Munich Airport where a secondary Flight Operations Centre is maintained."
+}
