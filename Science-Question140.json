@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"In the below circuit, batteries are connected in?",
+"answers":[
+	"Series",
+	"Parallel",
+	"Mixed",
+	"None of the above"
+	],
+"correctAnswer":2,
+"hints":[
+	"The voltage across each of the components is the same",
+	"The total current is the sum of the currents flowing through each component"
+	"In a parallel circuit, the voltage across the network is equal to the sum of the voltages across each component"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Components connected in parallel are connected along multiple paths, and each component has the same voltage across it, equal to the voltage across the network.\nIn a parallel circuit, the voltage across each of the components is the same, and the total current is the sum of the currents flowing through each component.\nIn parallel circuits, each light bulb has its own circuit, so all but one light could be burned out, and the last one will still function.\nIf two or more components are connected in parallel, they have the same difference of potential (voltage) across their ends. The potential differences across the components are the same in magnitude, and they also have identical polarities.\nThe same voltage is applied to all circuit components connected in parallel. The total current is the sum of the currents through the individual components, in accordance with Kirchhoff's current law."
+}

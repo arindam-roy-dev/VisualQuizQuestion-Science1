@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which fighter aircraft is this?",
+"answers":[
+	"Rafale",
+	"MiG-21",
+	"F-16 Falcon",
+	"Boeing F-18 Hornet"
+	],
+"correctAnswer":1,
+"hints":[
+	"Developed by General Dynamics",
+	"Developed for the United States Air Force",
+	"Rafale is a French multirole fighter aircraft",
+	"MiG-21 is a Russian multirole fighter aircraf"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The General Dynamics F-16 Fighting Falcon is a single-engine multirole fighter aircraft originally developed by General Dynamics for the United States Air Force (USAF).\nDesigned as an air superiority day fighter, it evolved into a successful all-weather multirole aircraft.\nOver 4,600 aircraft have been built since production was approved in 1976.\nAlthough no longer being purchased by the U.S. Air Force, improved versions are being built for export customers.\nIn 1993, General Dynamics sold its aircraft manufacturing business to the Lockheed Corporation, which in turn became part of Lockheed Martin after a 1995 merger with Martin Marietta.\nThe Fighting Falcon\'s key features include a frameless bubble canopy for better visibility, side-mounted control stick to ease control while maneuvering, an ejection seat reclined 30 degrees from vertical to reduce the effect of g-forces on the pilot, and the first use of a relaxed static stability/fly-by-wire flight control system that helps to make it an agile aircraft.\nThe F-16 has an internal M61 Vulcan cannon and 11 locations for mounting weapons and other mission equipment.\nThe F-16\'s official name is \"Fighting Falcon\", but \"Viper\" is commonly used by its pilots and crews, due to a perceived resemblance to a viper snake as well as the Colonial Viper starfighter on Battlestar Galactica which aired at the time the F-16 entered service.\nThe F-16 is a single-engine, highly maneuverable, supersonic, multi-role tactical fighter aircraft. It is much smaller and lighter than its predecessors but uses advanced aerodynamics and avionics, including the first use of a relaxed static stability/fly-by-wire (RSS/FBW) flight control system, to achieve enhanced maneuver performance.\nHighly agile, the F-16 was the first fighter aircraft purpose-built to pull 9-g maneuvers and can reach a maximum speed of over Mach 2.\nIt is armed with an internal M61 Vulcan cannon in the left wing root and has multiple locations for mounting various missiles, bombs and pods. It has a thrust-to-weight ratio greater than one, providing power to climb and vertical acceleration."
+}

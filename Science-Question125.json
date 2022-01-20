@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"In the below circuit, batteries are connected in?",
+"answers":[
+	"Series",
+	"Parallel",
+	"Mixed",
+	"None of the above"
+	],
+"correctAnswer":1,
+"hints":[
+	"The current that flows through each of the components is the same",
+	"The voltage across the network is equal to the sum of the voltages across each component"
+	"In a parallel circuit, the voltage across each of the components is the same"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Components connected in series are connected along a single \"electrical path\", and each component has the same current through it, equal to the current through the network. The voltage across the network is equal to the sum of the voltages across each component.\nIn a series circuit, the current that flows through each of the components is the same, and the voltage across the circuit is the sum of the individual voltage drops across each component. In a parallel circuit, the voltage across each of the components is the same, and the total current is the sum of the currents flowing through each component.\nSeries circuits are sometimes referred to as current-coupled or daisy chain-coupled. The electric current in a series circuit goes through every component in the circuit. Therefore, all of the components in a series connection carry the same current."
+}

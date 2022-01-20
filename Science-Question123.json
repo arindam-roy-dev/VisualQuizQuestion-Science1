@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"These concrete segments are used to construct what?",
+"answers":[
+	"Bridges",
+	"Buildings",
+	"Tunnels",
+	"River dams"
+	],
+"correctAnswer":1,
+"hints":[
+	"Very economical for long spans (over 100 meters)",
+	"After the towers are built, a superstructure is built atop the towers"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A segmental bridge is a bridge built in short sections (called segments), i.e., one piece at a time, as opposed to traditional methods that build a bridge in very large sections. The bridge is made of concrete that is either cast-in-place (constructed fully in its final location) or precast concrete (built at another location and then transported to their final location for placement in the full structure).\nThese bridges are very economical for long spans (over 100 meters), especially when access to the construction site is restricted. They are also chosen for their aesthetic appeal.\nThe first cantilevered segmental cast-in-place concrete bridge, built in 1930, was Ponte Emílio Baumgart across Rio do Peixe in the state of Santa Catarina of Brazil. It was followed in 1951 by the prestressed concrete bridge across the Lahn River in Balduinstein, Germany, the first of many cantilevered bridges designed by Ulrich Finsterwalder.\nThe support towers may be built segmentally. Often this is accomplished using \"slip-form\" construction, where the falsework moves (slips) upward following sequential concrete \"pours.\" The falsework uses the newly constructed concrete as the basis for moving upward.\nAfter the towers are built, a superstructure is built atop the towers. This superstructure serves as the \"launching\" point for building the deck. (The deck is often built in both directions away from the tower, simultaneously.)\nThe deck is now constructed sequentially, beginning at the tower, one section at a time. This process is usually accomplished using a self propelled bridge layer that hoists the bridge section into place. The process is repeated until the span is completed."
+}
